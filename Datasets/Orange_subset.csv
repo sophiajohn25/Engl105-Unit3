@@ -1,0 +1,1172 @@
+Year,County,Hospital,OSHPDID,Surgery,# of Cases (ICD 9),# of Cases (ICD 10),LONGITUDE,LATITUDE
+2013,Orange,Orange Coast Memorial Medical Center,106300225.0,Rectum,22.0,,-117.95524,33.70162
+2013,Orange,Orange Coast Memorial Medical Center,106300225.0,Prostate,24.0,,-117.95524,33.70162
+2013,Orange,Orange Coast Memorial Medical Center,106300225.0,Pancreas,13.0,,-117.95524,33.70162
+2013,Orange,Orange Coast Memorial Medical Center,106300225.0,Lung,26.0,,-117.95524,33.70162
+2013,Orange,Orange Coast Memorial Medical Center,106300225.0,Liver,33.0,,-117.95524,33.70162
+2013,Orange,Orange Coast Memorial Medical Center,106300225.0,Colon,48.0,,-117.95524,33.70162
+2013,Orange,Orange Coast Memorial Medical Center,106300225.0,Breast,124.0,,-117.95524,33.70162
+2013,Orange,Orange Coast Memorial Medical Center,106300225.0,Bladder,2.0,,-117.95524,33.70162
+2013,Orange,Orange Coast Memorial Medical Center,106300225.0,Stomach,17.0,,-117.95524,33.70162
+2013,Orange,Orange Coast Memorial Medical Center,106300225.0,Brain,13.0,,-117.95524,33.70162
+2013,Orange,Anaheim General Hospital,106301097.0,Breast,2.0,,-118.00706,33.81716
+2013,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Rectum,3.0,,-117.93248,33.84725
+2013,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Prostate,3.0,,-117.93248,33.84725
+2013,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Lung,23.0,,-117.93248,33.84725
+2013,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Esophagus,1.0,,-117.93248,33.84725
+2013,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Colon,29.0,,-117.93248,33.84725
+2013,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Breast,105.0,,-117.93248,33.84725
+2013,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Brain,1.0,,-117.93248,33.84725
+2013,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Stomach,3.0,,-117.93248,33.84725
+2013,Orange,Chapman Medical Center,106301140.0,Colon,1.0,,-117.82586,33.78785
+2013,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Stomach,3.0,,-117.93694,33.71546
+2013,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Rectum,13.0,,-117.93694,33.71546
+2013,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Prostate,12.0,,-117.93694,33.71546
+2013,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Pancreas,3.0,,-117.93694,33.71546
+2013,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Lung,12.0,,-117.93694,33.71546
+2013,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Liver,13.0,,-117.93694,33.71546
+2013,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Colon,40.0,,-117.93694,33.71546
+2013,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Breast,84.0,,-117.93694,33.71546
+2013,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Brain,10.0,,-117.93694,33.71546
+2013,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Bladder,3.0,,-117.93694,33.71546
+2013,Orange,Western Medical Center Anaheim,106301188.0,Lung,1.0,,-117.90921,33.8209
+2013,Orange,Western Medical Center Anaheim,106301188.0,Colon,2.0,,-117.90921,33.8209
+2013,Orange,Western Medical Center Anaheim,106301188.0,Breast,5.0,,-117.90921,33.8209
+2013,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Stomach,13.0,,-117.92949,33.62526
+2013,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Rectum,19.0,,-117.92949,33.62526
+2013,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Prostate,171.0,,-117.92949,33.62526
+2013,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Pancreas,20.0,,-117.92949,33.62526
+2013,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Lung,64.0,,-117.92949,33.62526
+2013,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Liver,17.0,,-117.92949,33.62526
+2013,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Esophagus,8.0,,-117.92949,33.62526
+2013,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Colon,90.0,,-117.92949,33.62526
+2013,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Breast,604.0,,-117.92949,33.62526
+2013,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Brain,85.0,,-117.92949,33.62526
+2013,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Bladder,11.0,,-117.92949,33.62526
+2013,Orange,Huntington Beach Hospital,106301209.0,Stomach,1.0,,-117.98895,33.70442
+2013,Orange,Huntington Beach Hospital,106301209.0,Rectum,1.0,,-117.98895,33.70442
+2013,Orange,Huntington Beach Hospital,106301209.0,Colon,2.0,,-117.98895,33.70442
+2013,Orange,La Palma Intercommunity Hospital,106301234.0,Colon,2.0,,-118.03737,33.8485
+2013,Orange,La Palma Intercommunity Hospital,106301234.0,Stomach,2.0,,-118.03737,33.8485
+2013,Orange,La Palma Intercommunity Hospital,106301234.0,Lung,1.0,,-118.03737,33.8485
+2013,Orange,Los Alamitos Medical Center,106301248.0,Rectum,8.0,,-118.0674,33.80327
+2013,Orange,Los Alamitos Medical Center,106301248.0,Prostate,18.0,,-118.0674,33.80327
+2013,Orange,Los Alamitos Medical Center,106301248.0,Lung,9.0,,-118.0674,33.80327
+2013,Orange,Los Alamitos Medical Center,106301248.0,Liver,2.0,,-118.0674,33.80327
+2013,Orange,Los Alamitos Medical Center,106301248.0,Colon,19.0,,-118.0674,33.80327
+2013,Orange,Los Alamitos Medical Center,106301248.0,Breast,99.0,,-118.0674,33.80327
+2013,Orange,Los Alamitos Medical Center,106301248.0,Brain,3.0,,-118.0674,33.80327
+2013,Orange,Los Alamitos Medical Center,106301248.0,Bladder,1.0,,-118.0674,33.80327
+2013,Orange,Los Alamitos Medical Center,106301248.0,Stomach,1.0,,-118.0674,33.80327
+2013,Orange,Coastal Communities Hospital,106301258.0,Stomach,1.0,,-117.88539,33.71112
+2013,Orange,Coastal Communities Hospital,106301258.0,Rectum,2.0,,-117.88539,33.71112
+2013,Orange,Coastal Communities Hospital,106301258.0,Colon,4.0,,-117.88539,33.71112
+2013,Orange,Coastal Communities Hospital,106301258.0,Breast,40.0,,-117.88539,33.71112
+2013,Orange,Mission Hospital Regional Medical Center,106301262.0,Stomach,3.0,,-117.66768,33.56279
+2013,Orange,Mission Hospital Regional Medical Center,106301262.0,Rectum,3.0,,-117.66768,33.56279
+2013,Orange,Mission Hospital Regional Medical Center,106301262.0,Prostate,30.0,,-117.66768,33.56279
+2013,Orange,Mission Hospital Regional Medical Center,106301262.0,Pancreas,2.0,,-117.66768,33.56279
+2013,Orange,Mission Hospital Regional Medical Center,106301262.0,Lung,35.0,,-117.66768,33.56279
+2013,Orange,Mission Hospital Regional Medical Center,106301262.0,Colon,28.0,,-117.66768,33.56279
+2013,Orange,Mission Hospital Regional Medical Center,106301262.0,Breast,67.0,,-117.66768,33.56279
+2013,Orange,Mission Hospital Regional Medical Center,106301262.0,Brain,24.0,,-117.66768,33.56279
+2013,Orange,Mission Hospital Regional Medical Center,106301262.0,Bladder,1.0,,-117.66768,33.56279
+2013,Orange,UC Irvine Medical Center,106301279.0,Stomach,15.0,,-117.89064,33.7889
+2013,Orange,UC Irvine Medical Center,106301279.0,Rectum,38.0,,-117.89064,33.7889
+2013,Orange,UC Irvine Medical Center,106301279.0,Prostate,44.0,,-117.89064,33.7889
+2013,Orange,UC Irvine Medical Center,106301279.0,Pancreas,47.0,,-117.89064,33.7889
+2013,Orange,UC Irvine Medical Center,106301279.0,Lung,9.0,,-117.89064,33.7889
+2013,Orange,UC Irvine Medical Center,106301279.0,Esophagus,12.0,,-117.89064,33.7889
+2013,Orange,UC Irvine Medical Center,106301279.0,Colon,51.0,,-117.89064,33.7889
+2013,Orange,UC Irvine Medical Center,106301279.0,Breast,107.0,,-117.89064,33.7889
+2013,Orange,UC Irvine Medical Center,106301279.0,Brain,64.0,,-117.89064,33.7889
+2013,Orange,UC Irvine Medical Center,106301279.0,Bladder,9.0,,-117.89064,33.7889
+2013,Orange,UC Irvine Medical Center,106301279.0,Liver,24.0,,-117.89064,33.7889
+2013,Orange,Garden Grove Hospital and Medical Center,106301283.0,Stomach,3.0,,-117.9130315,33.7745089
+2013,Orange,Garden Grove Hospital and Medical Center,106301283.0,Rectum,1.0,,-117.9130315,33.7745089
+2013,Orange,Garden Grove Hospital and Medical Center,106301283.0,Colon,10.0,,-117.9130315,33.7745089
+2013,Orange,Garden Grove Hospital and Medical Center,106301283.0,Breast,2.0,,-117.9130315,33.7745089
+2013,Orange,Garden Grove Hospital and Medical Center,106301283.0,Brain,1.0,,-117.9130315,33.7745089
+2013,Orange,Placentia Linda Hospital,106301297.0,Rectum,1.0,,-117.8431129,33.88704521
+2013,Orange,Placentia Linda Hospital,106301297.0,Prostate,5.0,,-117.8431129,33.88704521
+2013,Orange,Placentia Linda Hospital,106301297.0,Lung,1.0,,-117.8431129,33.88704521
+2013,Orange,Placentia Linda Hospital,106301297.0,Colon,20.0,,-117.8431129,33.88704521
+2013,Orange,Placentia Linda Hospital,106301297.0,Breast,35.0,,-117.8431129,33.88704521
+2013,Orange,Saddleback Memorial Medical Center,106301317.0,Stomach,3.0,,-117.70837,33.60796
+2013,Orange,Saddleback Memorial Medical Center,106301317.0,Rectum,7.0,,-117.70837,33.60796
+2013,Orange,Saddleback Memorial Medical Center,106301317.0,Prostate,33.0,,-117.70837,33.60796
+2013,Orange,Saddleback Memorial Medical Center,106301317.0,Lung,24.0,,-117.70837,33.60796
+2013,Orange,Saddleback Memorial Medical Center,106301317.0,Esophagus,2.0,,-117.70837,33.60796
+2013,Orange,Saddleback Memorial Medical Center,106301317.0,Colon,41.0,,-117.70837,33.60796
+2013,Orange,Saddleback Memorial Medical Center,106301317.0,Breast,115.0,,-117.70837,33.60796
+2013,Orange,Saddleback Memorial Medical Center,106301317.0,Brain,6.0,,-117.70837,33.60796
+2013,Orange,Saddleback Memorial Medical Center,106301317.0,Bladder,3.0,,-117.70837,33.60796
+2013,Orange,Mission Hospital Laguna Beach,106301337.0,Rectum,3.0,,-117.7422502,33.4997391
+2013,Orange,Mission Hospital Laguna Beach,106301337.0,Lung,2.0,,-117.7422502,33.4997391
+2013,Orange,Mission Hospital Laguna Beach,106301337.0,Liver,1.0,,-117.7422502,33.4997391
+2013,Orange,Mission Hospital Laguna Beach,106301337.0,Colon,7.0,,-117.7422502,33.4997391
+2013,Orange,Mission Hospital Laguna Beach,106301337.0,Breast,13.0,,-117.7422502,33.4997391
+2013,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Stomach,11.0,,-117.86516,33.7823
+2013,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Rectum,21.0,,-117.86516,33.7823
+2013,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Prostate,50.0,,-117.86516,33.7823
+2013,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Pancreas,9.0,,-117.86516,33.7823
+2013,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Lung,51.0,,-117.86516,33.7823
+2013,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Liver,12.0,,-117.86516,33.7823
+2013,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Colon,63.0,,-117.86516,33.7823
+2013,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Breast,311.0,,-117.86516,33.7823
+2013,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Brain,18.0,,-117.86516,33.7823
+2013,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Bladder,2.0,,-117.86516,33.7823
+2013,Orange,Saint Jude Medical Center,106301342.0,Stomach,5.0,,-117.92851,33.89349
+2013,Orange,Saint Jude Medical Center,106301342.0,Rectum,20.0,,-117.92851,33.89349
+2013,Orange,Saint Jude Medical Center,106301342.0,Prostate,69.0,,-117.92851,33.89349
+2013,Orange,Saint Jude Medical Center,106301342.0,Pancreas,2.0,,-117.92851,33.89349
+2013,Orange,Saint Jude Medical Center,106301342.0,Lung,10.0,,-117.92851,33.89349
+2013,Orange,Saint Jude Medical Center,106301342.0,Liver,2.0,,-117.92851,33.89349
+2013,Orange,Saint Jude Medical Center,106301342.0,Colon,66.0,,-117.92851,33.89349
+2013,Orange,Saint Jude Medical Center,106301342.0,Breast,198.0,,-117.92851,33.89349
+2013,Orange,Saint Jude Medical Center,106301342.0,Brain,21.0,,-117.92851,33.89349
+2013,Orange,Saint Jude Medical Center,106301342.0,Bladder,2.0,,-117.92851,33.89349
+2013,Orange,West Anaheim Medical Center,106301379.0,Colon,6.0,,-117.99492,33.82482
+2013,Orange,West Anaheim Medical Center,106301379.0,Breast,4.0,,-117.99492,33.82482
+2013,Orange,Western Medical Center ñ Santa Ana,106301566.0,Stomach,2.0,,-117.83398,33.75361
+2013,Orange,Western Medical Center ñ Santa Ana,106301566.0,Rectum,1.0,,-117.83398,33.75361
+2013,Orange,Western Medical Center ñ Santa Ana,106301566.0,Lung,2.0,,-117.83398,33.75361
+2013,Orange,Western Medical Center ñ Santa Ana,106301566.0,Liver,1.0,,-117.83398,33.75361
+2013,Orange,Western Medical Center ñ Santa Ana,106301566.0,Colon,6.0,,-117.83398,33.75361
+2013,Orange,Western Medical Center ñ Santa Ana,106301566.0,Breast,16.0,,-117.83398,33.75361
+2013,Orange,Western Medical Center ñ Santa Ana,106301566.0,Brain,8.0,,-117.83398,33.75361
+2013,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Stomach,6.0,,-117.8439815,33.8544317
+2013,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Rectum,28.0,,-117.8439815,33.8544317
+2013,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Prostate,13.0,,-117.8439815,33.8544317
+2013,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Pancreas,7.0,,-117.8439815,33.8544317
+2013,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Lung,28.0,,-117.8439815,33.8544317
+2013,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Liver,5.0,,-117.8439815,33.8544317
+2013,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Esophagus,5.0,,-117.8439815,33.8544317
+2013,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Colon,65.0,,-117.8439815,33.8544317
+2013,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Breast,380.0,,-117.8439815,33.8544317
+2013,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Brain,30.0,,-117.8439815,33.8544317
+2013,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Bladder,11.0,,-117.8439815,33.8544317
+2014,Orange,Orange Coast Memorial Medical Center,106300225.0,Lung,21.0,,-117.95524,33.70162
+2014,Orange,Orange Coast Memorial Medical Center,106300225.0,Liver,30.0,,-117.95524,33.70162
+2014,Orange,Orange Coast Memorial Medical Center,106300225.0,Colon,46.0,,-117.95524,33.70162
+2014,Orange,Orange Coast Memorial Medical Center,106300225.0,Brain,10.0,,-117.95524,33.70162
+2014,Orange,Orange Coast Memorial Medical Center,106300225.0,Bladder,4.0,,-117.95524,33.70162
+2014,Orange,Orange Coast Memorial Medical Center,106300225.0,Pancreas,26.0,,-117.95524,33.70162
+2014,Orange,Orange Coast Memorial Medical Center,106300225.0,Breast,100.0,,-117.95524,33.70162
+2014,Orange,Orange Coast Memorial Medical Center,106300225.0,Stomach,11.0,,-117.95524,33.70162
+2014,Orange,Orange Coast Memorial Medical Center,106300225.0,Rectum,30.0,,-117.95524,33.70162
+2014,Orange,Orange Coast Memorial Medical Center,106300225.0,Prostate,2.0,,-117.95524,33.70162
+2014,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Stomach,4.0,,-117.93248,33.84725
+2014,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Rectum,4.0,,-117.93248,33.84725
+2014,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Prostate,3.0,,-117.93248,33.84725
+2014,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Lung,16.0,,-117.93248,33.84725
+2014,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Esophagus,1.0,,-117.93248,33.84725
+2014,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Colon,27.0,,-117.93248,33.84725
+2014,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Breast,101.0,,-117.93248,33.84725
+2014,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Brain,5.0,,-117.93248,33.84725
+2014,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Bladder,1.0,,-117.93248,33.84725
+2014,Orange,Chapman Medical Center,106301140.0,Rectum,2.0,,-117.82586,33.78785
+2014,Orange,Chapman Medical Center,106301140.0,Colon,1.0,,-117.82586,33.78785
+2014,Orange,Chapman Medical Center,106301140.0,Breast,1.0,,-117.82586,33.78785
+2014,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Stomach,10.0,,-117.93694,33.71546
+2014,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Rectum,28.0,,-117.93694,33.71546
+2014,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Prostate,5.0,,-117.93694,33.71546
+2014,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Pancreas,7.0,,-117.93694,33.71546
+2014,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Lung,23.0,,-117.93694,33.71546
+2014,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Liver,13.0,,-117.93694,33.71546
+2014,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Esophagus,1.0,,-117.93694,33.71546
+2014,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Colon,43.0,,-117.93694,33.71546
+2014,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Breast,90.0,,-117.93694,33.71546
+2014,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Brain,10.0,,-117.93694,33.71546
+2014,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Bladder,4.0,,-117.93694,33.71546
+2014,Orange,Western Medical Center Anaheim,106301188.0,Rectum,1.0,,-117.90921,33.8209
+2014,Orange,Western Medical Center Anaheim,106301188.0,Colon,5.0,,-117.90921,33.8209
+2014,Orange,Western Medical Center Anaheim,106301188.0,Breast,3.0,,-117.90921,33.8209
+2014,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Stomach,6.0,,-117.92949,33.62526
+2014,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Rectum,29.0,,-117.92949,33.62526
+2014,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Prostate,160.0,,-117.92949,33.62526
+2014,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Pancreas,27.0,,-117.92949,33.62526
+2014,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Colon,95.0,,-117.92949,33.62526
+2014,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Breast,559.0,,-117.92949,33.62526
+2014,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Brain,72.0,,-117.92949,33.62526
+2014,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Lung,69.0,,-117.92949,33.62526
+2014,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Bladder,5.0,,-117.92949,33.62526
+2014,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Liver,17.0,,-117.92949,33.62526
+2014,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Esophagus,12.0,,-117.92949,33.62526
+2014,Orange,Huntington Beach Hospital,106301209.0,Colon,2.0,,-117.98895,33.70442
+2014,Orange,La Palma Intercommunity Hospital,106301234.0,Stomach,1.0,,-118.03737,33.8485
+2014,Orange,La Palma Intercommunity Hospital,106301234.0,Colon,4.0,,-118.03737,33.8485
+2014,Orange,La Palma Intercommunity Hospital,106301234.0,Breast,2.0,,-118.03737,33.8485
+2014,Orange,Los Alamitos Medical Center,106301248.0,Rectum,5.0,,-118.0674,33.80327
+2014,Orange,Los Alamitos Medical Center,106301248.0,Prostate,26.0,,-118.0674,33.80327
+2014,Orange,Los Alamitos Medical Center,106301248.0,Pancreas,1.0,,-118.0674,33.80327
+2014,Orange,Los Alamitos Medical Center,106301248.0,Lung,3.0,,-118.0674,33.80327
+2014,Orange,Los Alamitos Medical Center,106301248.0,Liver,1.0,,-118.0674,33.80327
+2014,Orange,Los Alamitos Medical Center,106301248.0,Colon,18.0,,-118.0674,33.80327
+2014,Orange,Los Alamitos Medical Center,106301248.0,Breast,109.0,,-118.0674,33.80327
+2014,Orange,Los Alamitos Medical Center,106301248.0,Brain,8.0,,-118.0674,33.80327
+2014,Orange,Los Alamitos Medical Center,106301248.0,Stomach,4.0,,-118.0674,33.80327
+2014,Orange,Coastal Communities Hospital,106301258.0,Rectum,1.0,,-117.88539,33.71112
+2014,Orange,Coastal Communities Hospital,106301258.0,Prostate,1.0,,-117.88539,33.71112
+2014,Orange,Coastal Communities Hospital,106301258.0,Colon,3.0,,-117.88539,33.71112
+2014,Orange,Coastal Communities Hospital,106301258.0,Breast,26.0,,-117.88539,33.71112
+2014,Orange,Mission Hospital Regional Medical Center,106301262.0,Stomach,3.0,,-117.66768,33.56279
+2014,Orange,Mission Hospital Regional Medical Center,106301262.0,Prostate,20.0,,-117.66768,33.56279
+2014,Orange,Mission Hospital Regional Medical Center,106301262.0,Pancreas,3.0,,-117.66768,33.56279
+2014,Orange,Mission Hospital Regional Medical Center,106301262.0,Lung,32.0,,-117.66768,33.56279
+2014,Orange,Mission Hospital Regional Medical Center,106301262.0,Esophagus,2.0,,-117.66768,33.56279
+2014,Orange,Mission Hospital Regional Medical Center,106301262.0,Colon,28.0,,-117.66768,33.56279
+2014,Orange,Mission Hospital Regional Medical Center,106301262.0,Breast,45.0,,-117.66768,33.56279
+2014,Orange,Mission Hospital Regional Medical Center,106301262.0,Brain,20.0,,-117.66768,33.56279
+2014,Orange,Mission Hospital Regional Medical Center,106301262.0,Bladder,1.0,,-117.66768,33.56279
+2014,Orange,Mission Hospital Regional Medical Center,106301262.0,Rectum,6.0,,-117.66768,33.56279
+2014,Orange,UC Irvine Medical Center,106301279.0,Stomach,24.0,,-117.89064,33.7889
+2014,Orange,UC Irvine Medical Center,106301279.0,Rectum,37.0,,-117.89064,33.7889
+2014,Orange,UC Irvine Medical Center,106301279.0,Prostate,43.0,,-117.89064,33.7889
+2014,Orange,UC Irvine Medical Center,106301279.0,Lung,19.0,,-117.89064,33.7889
+2014,Orange,UC Irvine Medical Center,106301279.0,Liver,17.0,,-117.89064,33.7889
+2014,Orange,UC Irvine Medical Center,106301279.0,Esophagus,8.0,,-117.89064,33.7889
+2014,Orange,UC Irvine Medical Center,106301279.0,Breast,146.0,,-117.89064,33.7889
+2014,Orange,UC Irvine Medical Center,106301279.0,Brain,94.0,,-117.89064,33.7889
+2014,Orange,UC Irvine Medical Center,106301279.0,Bladder,2.0,,-117.89064,33.7889
+2014,Orange,UC Irvine Medical Center,106301279.0,Pancreas,42.0,,-117.89064,33.7889
+2014,Orange,UC Irvine Medical Center,106301279.0,Colon,48.0,,-117.89064,33.7889
+2014,Orange,Garden Grove Hospital and Medical Center,106301283.0,Stomach,1.0,,-117.9130315,33.7745089
+2014,Orange,Garden Grove Hospital and Medical Center,106301283.0,Rectum,2.0,,-117.9130315,33.7745089
+2014,Orange,Garden Grove Hospital and Medical Center,106301283.0,Colon,5.0,,-117.9130315,33.7745089
+2014,Orange,Garden Grove Hospital and Medical Center,106301283.0,Breast,3.0,,-117.9130315,33.7745089
+2014,Orange,Garden Grove Hospital and Medical Center,106301283.0,Brain,1.0,,-117.9130315,33.7745089
+2014,Orange,Placentia Linda Hospital,106301297.0,Rectum,3.0,,-117.8431129,33.88704521
+2014,Orange,Placentia Linda Hospital,106301297.0,Prostate,3.0,,-117.8431129,33.88704521
+2014,Orange,Placentia Linda Hospital,106301297.0,Colon,15.0,,-117.8431129,33.88704521
+2014,Orange,Placentia Linda Hospital,106301297.0,Breast,36.0,,-117.8431129,33.88704521
+2014,Orange,Saddleback Memorial Medical Center,106301317.0,Stomach,3.0,,-117.70837,33.60796
+2014,Orange,Saddleback Memorial Medical Center,106301317.0,Rectum,1.0,,-117.70837,33.60796
+2014,Orange,Saddleback Memorial Medical Center,106301317.0,Prostate,36.0,,-117.70837,33.60796
+2014,Orange,Saddleback Memorial Medical Center,106301317.0,Lung,27.0,,-117.70837,33.60796
+2014,Orange,Saddleback Memorial Medical Center,106301317.0,Esophagus,1.0,,-117.70837,33.60796
+2014,Orange,Saddleback Memorial Medical Center,106301317.0,Colon,41.0,,-117.70837,33.60796
+2014,Orange,Saddleback Memorial Medical Center,106301317.0,Breast,127.0,,-117.70837,33.60796
+2014,Orange,Saddleback Memorial Medical Center,106301317.0,Brain,5.0,,-117.70837,33.60796
+2014,Orange,Saddleback Memorial Medical Center,106301317.0,Bladder,2.0,,-117.70837,33.60796
+2014,Orange,Mission Hospital Laguna Beach,106301337.0,Rectum,2.0,,-117.7422502,33.4997391
+2014,Orange,Mission Hospital Laguna Beach,106301337.0,Colon,4.0,,-117.7422502,33.4997391
+2014,Orange,Mission Hospital Laguna Beach,106301337.0,Breast,9.0,,-117.7422502,33.4997391
+2014,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Stomach,8.0,,-117.86516,33.7823
+2014,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Rectum,25.0,,-117.86516,33.7823
+2014,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Prostate,55.0,,-117.86516,33.7823
+2014,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Pancreas,9.0,,-117.86516,33.7823
+2014,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Lung,42.0,,-117.86516,33.7823
+2014,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Liver,14.0,,-117.86516,33.7823
+2014,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Esophagus,2.0,,-117.86516,33.7823
+2014,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Colon,61.0,,-117.86516,33.7823
+2014,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Breast,241.0,,-117.86516,33.7823
+2014,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Brain,34.0,,-117.86516,33.7823
+2014,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Bladder,1.0,,-117.86516,33.7823
+2014,Orange,Saint Jude Medical Center,106301342.0,Stomach,6.0,,-117.92851,33.89349
+2014,Orange,Saint Jude Medical Center,106301342.0,Rectum,18.0,,-117.92851,33.89349
+2014,Orange,Saint Jude Medical Center,106301342.0,Prostate,51.0,,-117.92851,33.89349
+2014,Orange,Saint Jude Medical Center,106301342.0,Pancreas,1.0,,-117.92851,33.89349
+2014,Orange,Saint Jude Medical Center,106301342.0,Lung,19.0,,-117.92851,33.89349
+2014,Orange,Saint Jude Medical Center,106301342.0,Colon,52.0,,-117.92851,33.89349
+2014,Orange,Saint Jude Medical Center,106301342.0,Breast,179.0,,-117.92851,33.89349
+2014,Orange,Saint Jude Medical Center,106301342.0,Brain,21.0,,-117.92851,33.89349
+2014,Orange,Saint Jude Medical Center,106301342.0,Bladder,3.0,,-117.92851,33.89349
+2014,Orange,West Anaheim Medical Center,106301379.0,Stomach,2.0,,-117.99492,33.82482
+2014,Orange,West Anaheim Medical Center,106301379.0,Colon,7.0,,-117.99492,33.82482
+2014,Orange,Western Medical Center ñ Santa Ana,106301566.0,Stomach,1.0,,-117.83398,33.75361
+2014,Orange,Western Medical Center ñ Santa Ana,106301566.0,Prostate,1.0,,-117.83398,33.75361
+2014,Orange,Western Medical Center ñ Santa Ana,106301566.0,Lung,1.0,,-117.83398,33.75361
+2014,Orange,Western Medical Center ñ Santa Ana,106301566.0,Colon,11.0,,-117.83398,33.75361
+2014,Orange,Western Medical Center ñ Santa Ana,106301566.0,Breast,31.0,,-117.83398,33.75361
+2014,Orange,Western Medical Center ñ Santa Ana,106301566.0,Brain,7.0,,-117.83398,33.75361
+2014,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Stomach,19.0,,-117.8439815,33.8544317
+2014,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Rectum,22.0,,-117.8439815,33.8544317
+2014,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Prostate,19.0,,-117.8439815,33.8544317
+2014,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Pancreas,9.0,,-117.8439815,33.8544317
+2014,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Lung,39.0,,-117.8439815,33.8544317
+2014,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Liver,8.0,,-117.8439815,33.8544317
+2014,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Esophagus,5.0,,-117.8439815,33.8544317
+2014,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Colon,68.0,,-117.8439815,33.8544317
+2014,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Breast,435.0,,-117.8439815,33.8544317
+2014,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Brain,27.0,,-117.8439815,33.8544317
+2014,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Bladder,7.0,,-117.8439815,33.8544317
+2015,Orange,Orange Coast Memorial Medical Center,106300225.0,Liver,25.0,,-117.95524,33.70162
+2015,Orange,Orange Coast Memorial Medical Center,106300225.0,Rectum,18.0,,-117.95524,33.70162
+2015,Orange,Orange Coast Memorial Medical Center,106300225.0,Stomach,6.0,,-117.95524,33.70162
+2015,Orange,Orange Coast Memorial Medical Center,106300225.0,Prostate,9.0,,-117.95524,33.70162
+2015,Orange,Orange Coast Memorial Medical Center,106300225.0,Pancreas,7.0,,-117.95524,33.70162
+2015,Orange,Orange Coast Memorial Medical Center,106300225.0,Lung,15.0,,-117.95524,33.70162
+2015,Orange,Orange Coast Memorial Medical Center,106300225.0,Colon,51.0,,-117.95524,33.70162
+2015,Orange,Orange Coast Memorial Medical Center,106300225.0,Breast,111.0,,-117.95524,33.70162
+2015,Orange,Orange Coast Memorial Medical Center,106300225.0,Brain,5.0,,-117.95524,33.70162
+2015,Orange,Orange Coast Memorial Medical Center,106300225.0,Bladder,1.0,,-117.95524,33.70162
+2015,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Stomach,4.0,,-117.93248,33.84725
+2015,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Rectum,1.0,,-117.93248,33.84725
+2015,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Prostate,6.0,,-117.93248,33.84725
+2015,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Lung,16.0,,-117.93248,33.84725
+2015,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Esophagus,1.0,,-117.93248,33.84725
+2015,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Colon,23.0,,-117.93248,33.84725
+2015,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Breast,104.0,,-117.93248,33.84725
+2015,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Bladder,2.0,,-117.93248,33.84725
+2015,Orange,Chapman Global Medical Center,106301140.0,Stomach,1.0,,-117.82586,33.78785
+2015,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Stomach,8.0,,-117.93694,33.71546
+2015,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Rectum,12.0,,-117.93694,33.71546
+2015,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Prostate,8.0,,-117.93694,33.71546
+2015,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Pancreas,2.0,,-117.93694,33.71546
+2015,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Lung,12.0,,-117.93694,33.71546
+2015,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Liver,14.0,,-117.93694,33.71546
+2015,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Colon,34.0,,-117.93694,33.71546
+2015,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Breast,59.0,,-117.93694,33.71546
+2015,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Brain,7.0,,-117.93694,33.71546
+2015,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Bladder,4.0,,-117.93694,33.71546
+2015,Orange,Anaheim Global Medical Center,106301188.0,Colon,2.0,,-117.90921,33.8209
+2015,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Stomach,7.0,,-117.92949,33.62526
+2015,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Rectum,18.0,,-117.92949,33.62526
+2015,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Prostate,133.0,,-117.92949,33.62526
+2015,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Pancreas,18.0,,-117.92949,33.62526
+2015,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Lung,73.0,,-117.92949,33.62526
+2015,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Liver,15.0,,-117.92949,33.62526
+2015,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Esophagus,7.0,,-117.92949,33.62526
+2015,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Colon,80.0,,-117.92949,33.62526
+2015,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Breast,428.0,,-117.92949,33.62526
+2015,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Brain,58.0,,-117.92949,33.62526
+2015,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Bladder,9.0,,-117.92949,33.62526
+2015,Orange,Huntington Beach Hospital,106301209.0,Lung,1.0,,-117.98895,33.70442
+2015,Orange,Huntington Beach Hospital,106301209.0,Colon,2.0,,-117.98895,33.70442
+2015,Orange,La Palma Intercommunity Hospital,106301234.0,Stomach,2.0,,-118.03737,33.8485
+2015,Orange,La Palma Intercommunity Hospital,106301234.0,Rectum,1.0,,-118.03737,33.8485
+2015,Orange,La Palma Intercommunity Hospital,106301234.0,Colon,7.0,,-118.03737,33.8485
+2015,Orange,Los Alamitos Medical Center,106301248.0,Stomach,1.0,,-118.0674,33.80327
+2015,Orange,Los Alamitos Medical Center,106301248.0,Rectum,4.0,,-118.0674,33.80327
+2015,Orange,Los Alamitos Medical Center,106301248.0,Prostate,24.0,,-118.0674,33.80327
+2015,Orange,Los Alamitos Medical Center,106301248.0,Pancreas,1.0,,-118.0674,33.80327
+2015,Orange,Los Alamitos Medical Center,106301248.0,Lung,4.0,,-118.0674,33.80327
+2015,Orange,Los Alamitos Medical Center,106301248.0,Liver,2.0,,-118.0674,33.80327
+2015,Orange,Los Alamitos Medical Center,106301248.0,Colon,20.0,,-118.0674,33.80327
+2015,Orange,Los Alamitos Medical Center,106301248.0,Breast,96.0,,-118.0674,33.80327
+2015,Orange,Los Alamitos Medical Center,106301248.0,Brain,9.0,,-118.0674,33.80327
+2015,Orange,South Coast Global Medical Center,106301258.0,Stomach,1.0,,-117.88539,33.71112
+2015,Orange,South Coast Global Medical Center,106301258.0,Prostate,1.0,,-117.88539,33.71112
+2015,Orange,South Coast Global Medical Center,106301258.0,Colon,4.0,,-117.88539,33.71112
+2015,Orange,South Coast Global Medical Center,106301258.0,Breast,20.0,,-117.88539,33.71112
+2015,Orange,South Coast Global Medical Center,106301258.0,Rectum,1.0,,-117.88539,33.71112
+2015,Orange,Mission Hospital Regional Medical Center,106301262.0,Stomach,1.0,,-117.66768,33.56279
+2015,Orange,Mission Hospital Regional Medical Center,106301262.0,Rectum,1.0,,-117.66768,33.56279
+2015,Orange,Mission Hospital Regional Medical Center,106301262.0,Prostate,12.0,,-117.66768,33.56279
+2015,Orange,Mission Hospital Regional Medical Center,106301262.0,Pancreas,4.0,,-117.66768,33.56279
+2015,Orange,Mission Hospital Regional Medical Center,106301262.0,Lung,27.0,,-117.66768,33.56279
+2015,Orange,Mission Hospital Regional Medical Center,106301262.0,Esophagus,2.0,,-117.66768,33.56279
+2015,Orange,Mission Hospital Regional Medical Center,106301262.0,Colon,25.0,,-117.66768,33.56279
+2015,Orange,Mission Hospital Regional Medical Center,106301262.0,Breast,27.0,,-117.66768,33.56279
+2015,Orange,Mission Hospital Regional Medical Center,106301262.0,Brain,20.0,,-117.66768,33.56279
+2015,Orange,Mission Hospital Regional Medical Center,106301262.0,Bladder,1.0,,-117.66768,33.56279
+2015,Orange,UC Irvine Medical Center,106301279.0,Rectum,39.0,,-117.89064,33.7889
+2015,Orange,UC Irvine Medical Center,106301279.0,Prostate,47.0,,-117.89064,33.7889
+2015,Orange,UC Irvine Medical Center,106301279.0,Pancreas,18.0,,-117.89064,33.7889
+2015,Orange,UC Irvine Medical Center,106301279.0,Liver,15.0,,-117.89064,33.7889
+2015,Orange,UC Irvine Medical Center,106301279.0,Esophagus,5.0,,-117.89064,33.7889
+2015,Orange,UC Irvine Medical Center,106301279.0,Colon,42.0,,-117.89064,33.7889
+2015,Orange,UC Irvine Medical Center,106301279.0,Breast,106.0,,-117.89064,33.7889
+2015,Orange,UC Irvine Medical Center,106301279.0,Brain,60.0,,-117.89064,33.7889
+2015,Orange,UC Irvine Medical Center,106301279.0,Bladder,8.0,,-117.89064,33.7889
+2015,Orange,UC Irvine Medical Center,106301279.0,Stomach,18.0,,-117.89064,33.7889
+2015,Orange,UC Irvine Medical Center,106301279.0,Lung,17.0,,-117.89064,33.7889
+2015,Orange,Garden Grove Hospital and Medical Center,106301283.0,Stomach,2.0,,-117.9130315,33.7745089
+2015,Orange,Garden Grove Hospital and Medical Center,106301283.0,Rectum,1.0,,-117.9130315,33.7745089
+2015,Orange,Placentia Linda Hospital,106301297.0,Prostate,6.0,,-117.8431129,33.88704521
+2015,Orange,Placentia Linda Hospital,106301297.0,Colon,6.0,,-117.8431129,33.88704521
+2015,Orange,Placentia Linda Hospital,106301297.0,Breast,14.0,,-117.8431129,33.88704521
+2015,Orange,Saddleback Memorial Medical Center,106301317.0,Stomach,2.0,,-117.70837,33.60796
+2015,Orange,Saddleback Memorial Medical Center,106301317.0,Rectum,9.0,,-117.70837,33.60796
+2015,Orange,Saddleback Memorial Medical Center,106301317.0,Prostate,23.0,,-117.70837,33.60796
+2015,Orange,Saddleback Memorial Medical Center,106301317.0,Lung,17.0,,-117.70837,33.60796
+2015,Orange,Saddleback Memorial Medical Center,106301317.0,Esophagus,3.0,,-117.70837,33.60796
+2015,Orange,Saddleback Memorial Medical Center,106301317.0,Colon,31.0,,-117.70837,33.60796
+2015,Orange,Saddleback Memorial Medical Center,106301317.0,Breast,96.0,,-117.70837,33.60796
+2015,Orange,Saddleback Memorial Medical Center,106301317.0,Brain,8.0,,-117.70837,33.60796
+2015,Orange,Mission Hospital Laguna Beach,106301337.0,Rectum,2.0,,-117.7422502,33.4997391
+2015,Orange,Mission Hospital Laguna Beach,106301337.0,Colon,8.0,,-117.7422502,33.4997391
+2015,Orange,Mission Hospital Laguna Beach,106301337.0,Breast,11.0,,-117.7422502,33.4997391
+2015,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Rectum,15.0,,-117.86516,33.7823
+2015,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Prostate,39.0,,-117.86516,33.7823
+2015,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Pancreas,8.0,,-117.86516,33.7823
+2015,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Stomach,6.0,,-117.86516,33.7823
+2015,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Lung,30.0,,-117.86516,33.7823
+2015,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Liver,8.0,,-117.86516,33.7823
+2015,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Esophagus,1.0,,-117.86516,33.7823
+2015,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Colon,45.0,,-117.86516,33.7823
+2015,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Breast,211.0,,-117.86516,33.7823
+2015,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Brain,17.0,,-117.86516,33.7823
+2015,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Bladder,2.0,,-117.86516,33.7823
+2015,Orange,Saint Jude Medical Center,106301342.0,Stomach,1.0,,-117.92851,33.89349
+2015,Orange,Saint Jude Medical Center,106301342.0,Rectum,10.0,,-117.92851,33.89349
+2015,Orange,Saint Jude Medical Center,106301342.0,Prostate,27.0,,-117.92851,33.89349
+2015,Orange,Saint Jude Medical Center,106301342.0,Lung,14.0,,-117.92851,33.89349
+2015,Orange,Saint Jude Medical Center,106301342.0,Colon,31.0,,-117.92851,33.89349
+2015,Orange,Saint Jude Medical Center,106301342.0,Breast,206.0,,-117.92851,33.89349
+2015,Orange,Saint Jude Medical Center,106301342.0,Brain,17.0,,-117.92851,33.89349
+2015,Orange,Saint Jude Medical Center,106301342.0,Bladder,2.0,,-117.92851,33.89349
+2015,Orange,West Anaheim Medical Center,106301379.0,Rectum,1.0,,-117.99492,33.82482
+2015,Orange,West Anaheim Medical Center,106301379.0,Colon,4.0,,-117.99492,33.82482
+2015,Orange,West Anaheim Medical Center,106301379.0,Breast,2.0,,-117.99492,33.82482
+2015,Orange,Orange County Global Medical Center,106301566.0,Prostate,1.0,,-117.83398,33.75361
+2015,Orange,Orange County Global Medical Center,106301566.0,Pancreas,1.0,,-117.83398,33.75361
+2015,Orange,Orange County Global Medical Center,106301566.0,Colon,1.0,,-117.83398,33.75361
+2015,Orange,Orange County Global Medical Center,106301566.0,Breast,8.0,,-117.83398,33.75361
+2015,Orange,Orange County Global Medical Center,106301566.0,Brain,4.0,,-117.83398,33.75361
+2015,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Rectum,26.0,,-117.8439815,33.8544317
+2015,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Lung,33.0,,-117.8439815,33.8544317
+2015,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Liver,7.0,,-117.8439815,33.8544317
+2015,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Esophagus,4.0,,-117.8439815,33.8544317
+2015,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Stomach,8.0,,-117.8439815,33.8544317
+2015,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Colon,80.0,,-117.8439815,33.8544317
+2015,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Breast,322.0,,-117.8439815,33.8544317
+2015,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Brain,24.0,,-117.8439815,33.8544317
+2015,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Bladder,13.0,,-117.8439815,33.8544317
+2015,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Prostate,1.0,,-117.8439815,33.8544317
+2015,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Pancreas,8.0,,-117.8439815,33.8544317
+2016,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Breast,,123.0,-117.93248,33.84725
+2016,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Colon,,23.0,-117.93248,33.84725
+2016,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Esophagus,,2.0,-117.93248,33.84725
+2016,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Lung,,20.0,-117.93248,33.84725
+2016,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Prostate,,3.0,-117.93248,33.84725
+2016,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Rectum,,8.0,-117.93248,33.84725
+2016,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Stomach,,2.0,-117.93248,33.84725
+2016,Orange,Anaheim Global Medical Center,106301188.0,Breast,,3.0,-117.90921,33.8209
+2016,Orange,Anaheim Global Medical Center,106301188.0,Colon,,1.0,-117.90921,33.8209
+2016,Orange,Anaheim Global Medical Center,106301188.0,Lung,,1.0,-117.90921,33.8209
+2016,Orange,Chapman Global Medical Center,106301140.0,Colon,,1.0,-117.82586,33.78785
+2016,Orange,Chapman Global Medical Center,106301140.0,Rectum,,1.0,-117.82586,33.78785
+2016,Orange,Foothill Regional Medical Center,106301357.0,Breast,,1.0,,
+2016,Orange,Foothill Regional Medical Center,106301357.0,Colon,,1.0,,
+2016,Orange,Foothill Regional Medical Center,106301357.0,Lung,,1.0,,
+2016,Orange,Foothill Regional Medical Center,106301357.0,Pancreas,,1.0,,
+2016,Orange,Foothill Regional Medical Center,106301357.0,Rectum,,1.0,,
+2016,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Brain,,8.0,-117.93694,33.71546
+2016,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Breast,,89.0,-117.93694,33.71546
+2016,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Colon,,42.0,-117.93694,33.71546
+2016,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Esophagus,,1.0,-117.93694,33.71546
+2016,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Liver,,19.0,-117.93694,33.71546
+2016,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Lung,,16.0,-117.93694,33.71546
+2016,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Pancreas,,8.0,-117.93694,33.71546
+2016,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Prostate,,14.0,-117.93694,33.71546
+2016,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Rectum,,25.0,-117.93694,33.71546
+2016,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Stomach,,9.0,-117.93694,33.71546
+2016,Orange,Garden Grove Hospital and Medical Center,106301283.0,Breast,,2.0,-117.9130315,33.7745089
+2016,Orange,Garden Grove Hospital and Medical Center,106301283.0,Colon,,4.0,-117.9130315,33.7745089
+2016,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Bladder,,14.0,-117.92949,33.62526
+2016,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Brain,,85.0,-117.92949,33.62526
+2016,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Breast,,618.0,-117.92949,33.62526
+2016,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Colon,,93.0,-117.92949,33.62526
+2016,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Esophagus,,15.0,-117.92949,33.62526
+2016,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Liver,,22.0,-117.92949,33.62526
+2016,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Lung,,64.0,-117.92949,33.62526
+2016,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Pancreas,,20.0,-117.92949,33.62526
+2016,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Prostate,,158.0,-117.92949,33.62526
+2016,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Rectum,,44.0,-117.92949,33.62526
+2016,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Stomach,,6.0,-117.92949,33.62526
+2016,Orange,Huntington Beach Hospital,106301209.0,Colon,,1.0,-117.98895,33.70442
+2016,Orange,Huntington Beach Hospital,106301209.0,Prostate,,1.0,-117.98895,33.70442
+2016,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Bladder,,22.0,-117.8439815,33.8544317
+2016,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Brain,,27.0,-117.8439815,33.8544317
+2016,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Breast,,460.0,-117.8439815,33.8544317
+2016,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Colon,,68.0,-117.8439815,33.8544317
+2016,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Esophagus,,6.0,-117.8439815,33.8544317
+2016,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Liver,,12.0,-117.8439815,33.8544317
+2016,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Lung,,28.0,-117.8439815,33.8544317
+2016,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Pancreas,,13.0,-117.8439815,33.8544317
+2016,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Prostate,,1.0,-117.8439815,33.8544317
+2016,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Rectum,,34.0,-117.8439815,33.8544317
+2016,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Stomach,,8.0,-117.8439815,33.8544317
+2016,Orange,La Palma Intercommunity Hospital,106301234.0,Colon,,6.0,-118.03737,33.8485
+2016,Orange,La Palma Intercommunity Hospital,106301234.0,Liver,,1.0,-118.03737,33.8485
+2016,Orange,La Palma Intercommunity Hospital,106301234.0,Rectum,,3.0,-118.03737,33.8485
+2016,Orange,Los Alamitos Medical Center,106301248.0,Bladder,,4.0,-118.0674,33.80327
+2016,Orange,Los Alamitos Medical Center,106301248.0,Brain,,11.0,-118.0674,33.80327
+2016,Orange,Los Alamitos Medical Center,106301248.0,Breast,,139.0,-118.0674,33.80327
+2016,Orange,Los Alamitos Medical Center,106301248.0,Colon,,22.0,-118.0674,33.80327
+2016,Orange,Los Alamitos Medical Center,106301248.0,Liver,,3.0,-118.0674,33.80327
+2016,Orange,Los Alamitos Medical Center,106301248.0,Lung,,1.0,-118.0674,33.80327
+2016,Orange,Los Alamitos Medical Center,106301248.0,Pancreas,,2.0,-118.0674,33.80327
+2016,Orange,Los Alamitos Medical Center,106301248.0,Prostate,,41.0,-118.0674,33.80327
+2016,Orange,Los Alamitos Medical Center,106301248.0,Rectum,,13.0,-118.0674,33.80327
+2016,Orange,Los Alamitos Medical Center,106301248.0,Stomach,,3.0,-118.0674,33.80327
+2016,Orange,Mission Hospital Laguna Beach,106301337.0,Breast,,4.0,-117.7422502,33.4997391
+2016,Orange,Mission Hospital Laguna Beach,106301337.0,Colon,,8.0,-117.7422502,33.4997391
+2016,Orange,Mission Hospital Laguna Beach,106301337.0,Rectum,,2.0,-117.7422502,33.4997391
+2016,Orange,Mission Hospital Regional Medical Center,106301262.0,Bladder,,2.0,-117.66768,33.56279
+2016,Orange,Mission Hospital Regional Medical Center,106301262.0,Brain,,21.0,-117.66768,33.56279
+2016,Orange,Mission Hospital Regional Medical Center,106301262.0,Breast,,39.0,-117.66768,33.56279
+2016,Orange,Mission Hospital Regional Medical Center,106301262.0,Colon,,41.0,-117.66768,33.56279
+2016,Orange,Mission Hospital Regional Medical Center,106301262.0,Esophagus,,6.0,-117.66768,33.56279
+2016,Orange,Mission Hospital Regional Medical Center,106301262.0,Lung,,28.0,-117.66768,33.56279
+2016,Orange,Mission Hospital Regional Medical Center,106301262.0,Pancreas,,1.0,-117.66768,33.56279
+2016,Orange,Mission Hospital Regional Medical Center,106301262.0,Prostate,,11.0,-117.66768,33.56279
+2016,Orange,Mission Hospital Regional Medical Center,106301262.0,Rectum,,6.0,-117.66768,33.56279
+2016,Orange,Mission Hospital Regional Medical Center,106301262.0,Stomach,,1.0,-117.66768,33.56279
+2016,Orange,Orange Coast Memorial Medical Center,106300225.0,Bladder,,2.0,-117.95524,33.70162
+2016,Orange,Orange Coast Memorial Medical Center,106300225.0,Brain,,11.0,-117.95524,33.70162
+2016,Orange,Orange Coast Memorial Medical Center,106300225.0,Breast,,158.0,-117.95524,33.70162
+2016,Orange,Orange Coast Memorial Medical Center,106300225.0,Colon,,62.0,-117.95524,33.70162
+2016,Orange,Orange Coast Memorial Medical Center,106300225.0,Esophagus,,1.0,-117.95524,33.70162
+2016,Orange,Orange Coast Memorial Medical Center,106300225.0,Liver,,36.0,-117.95524,33.70162
+2016,Orange,Orange Coast Memorial Medical Center,106300225.0,Lung,,19.0,-117.95524,33.70162
+2016,Orange,Orange Coast Memorial Medical Center,106300225.0,Pancreas,,17.0,-117.95524,33.70162
+2016,Orange,Orange Coast Memorial Medical Center,106300225.0,Prostate,,16.0,-117.95524,33.70162
+2016,Orange,Orange Coast Memorial Medical Center,106300225.0,Rectum,,21.0,-117.95524,33.70162
+2016,Orange,Orange Coast Memorial Medical Center,106300225.0,Stomach,,8.0,-117.95524,33.70162
+2016,Orange,Orange County Global Medical Center,106301566.0,Brain,,8.0,-117.83398,33.75361
+2016,Orange,Orange County Global Medical Center,106301566.0,Breast,,19.0,-117.83398,33.75361
+2016,Orange,Orange County Global Medical Center,106301566.0,Colon,,4.0,-117.83398,33.75361
+2016,Orange,Orange County Global Medical Center,106301566.0,Lung,,1.0,-117.83398,33.75361
+2016,Orange,Orange County Global Medical Center,106301566.0,Rectum,,1.0,-117.83398,33.75361
+2016,Orange,Placentia Linda Hospital,106301297.0,Breast,,30.0,-117.8431129,33.88704521
+2016,Orange,Placentia Linda Hospital,106301297.0,Colon,,8.0,-117.8431129,33.88704521
+2016,Orange,Placentia Linda Hospital,106301297.0,Prostate,,4.0,-117.8431129,33.88704521
+2016,Orange,Placentia Linda Hospital,106301297.0,Rectum,,4.0,-117.8431129,33.88704521
+2016,Orange,Placentia Linda Hospital,106301297.0,Stomach,,1.0,-117.8431129,33.88704521
+2016,Orange,Saddleback Memorial Medical Center,106301317.0,Bladder,,2.0,-117.70837,33.60796
+2016,Orange,Saddleback Memorial Medical Center,106301317.0,Brain,,8.0,-117.70837,33.60796
+2016,Orange,Saddleback Memorial Medical Center,106301317.0,Breast,,156.0,-117.70837,33.60796
+2016,Orange,Saddleback Memorial Medical Center,106301317.0,Colon,,24.0,-117.70837,33.60796
+2016,Orange,Saddleback Memorial Medical Center,106301317.0,Esophagus,,1.0,-117.70837,33.60796
+2016,Orange,Saddleback Memorial Medical Center,106301317.0,Lung,,29.0,-117.70837,33.60796
+2016,Orange,Saddleback Memorial Medical Center,106301317.0,Pancreas,,1.0,-117.70837,33.60796
+2016,Orange,Saddleback Memorial Medical Center,106301317.0,Prostate,,39.0,-117.70837,33.60796
+2016,Orange,Saddleback Memorial Medical Center,106301317.0,Rectum,,14.0,-117.70837,33.60796
+2016,Orange,Saddleback Memorial Medical Center,106301317.0,Stomach,,1.0,-117.70837,33.60796
+2016,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Bladder,,1.0,-117.86516,33.7823
+2016,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Brain,,28.0,-117.86516,33.7823
+2016,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Breast,,282.0,-117.86516,33.7823
+2016,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Colon,,65.0,-117.86516,33.7823
+2016,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Esophagus,,3.0,-117.86516,33.7823
+2016,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Liver,,9.0,-117.86516,33.7823
+2016,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Lung,,50.0,-117.86516,33.7823
+2016,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Pancreas,,15.0,-117.86516,33.7823
+2016,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Prostate,,59.0,-117.86516,33.7823
+2016,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Rectum,,18.0,-117.86516,33.7823
+2016,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Stomach,,9.0,-117.86516,33.7823
+2016,Orange,Saint Jude Medical Center,106301342.0,Bladder,,1.0,-117.92851,33.89349
+2016,Orange,Saint Jude Medical Center,106301342.0,Brain,,18.0,-117.92851,33.89349
+2016,Orange,Saint Jude Medical Center,106301342.0,Breast,,209.0,-117.92851,33.89349
+2016,Orange,Saint Jude Medical Center,106301342.0,Colon,,67.0,-117.92851,33.89349
+2016,Orange,Saint Jude Medical Center,106301342.0,Liver,,5.0,-117.92851,33.89349
+2016,Orange,Saint Jude Medical Center,106301342.0,Lung,,19.0,-117.92851,33.89349
+2016,Orange,Saint Jude Medical Center,106301342.0,Pancreas,,10.0,-117.92851,33.89349
+2016,Orange,Saint Jude Medical Center,106301342.0,Prostate,,56.0,-117.92851,33.89349
+2016,Orange,Saint Jude Medical Center,106301342.0,Rectum,,23.0,-117.92851,33.89349
+2016,Orange,Saint Jude Medical Center,106301342.0,Stomach,,9.0,-117.92851,33.89349
+2016,Orange,South Coast Global Medical Center,106301258.0,Bladder,,2.0,-117.88539,33.71112
+2016,Orange,South Coast Global Medical Center,106301258.0,Breast,,31.0,-117.88539,33.71112
+2016,Orange,South Coast Global Medical Center,106301258.0,Colon,,2.0,-117.88539,33.71112
+2016,Orange,South Coast Global Medical Center,106301258.0,Prostate,,4.0,-117.88539,33.71112
+2016,Orange,UC Irvine Medical Center,106301279.0,Bladder,,15.0,-117.89064,33.7889
+2016,Orange,UC Irvine Medical Center,106301279.0,Brain,,107.0,-117.89064,33.7889
+2016,Orange,UC Irvine Medical Center,106301279.0,Breast,,155.0,-117.89064,33.7889
+2016,Orange,UC Irvine Medical Center,106301279.0,Colon,,80.0,-117.89064,33.7889
+2016,Orange,UC Irvine Medical Center,106301279.0,Esophagus,,5.0,-117.89064,33.7889
+2016,Orange,UC Irvine Medical Center,106301279.0,Liver,,33.0,-117.89064,33.7889
+2016,Orange,UC Irvine Medical Center,106301279.0,Lung,,26.0,-117.89064,33.7889
+2016,Orange,UC Irvine Medical Center,106301279.0,Pancreas,,32.0,-117.89064,33.7889
+2016,Orange,UC Irvine Medical Center,106301279.0,Prostate,,49.0,-117.89064,33.7889
+2016,Orange,UC Irvine Medical Center,106301279.0,Rectum,,52.0,-117.89064,33.7889
+2016,Orange,UC Irvine Medical Center,106301279.0,Stomach,,18.0,-117.89064,33.7889
+2016,Orange,West Anaheim Medical Center,106301379.0,Colon,,6.0,-117.99492,33.82482
+2016,Orange,West Anaheim Medical Center,106301379.0,Rectum,,1.0,-117.99492,33.82482
+2017,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Bladder,,1.0,-117.93248,33.84725
+2017,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Brain,,3.0,-117.93248,33.84725
+2017,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Breast,,97.0,-117.93248,33.84725
+2017,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Colon,,35.0,-117.93248,33.84725
+2017,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Lung,,11.0,-117.93248,33.84725
+2017,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Prostate,,8.0,-117.93248,33.84725
+2017,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Rectum,,1.0,-117.93248,33.84725
+2017,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Stomach,,1.0,-117.93248,33.84725
+2017,Orange,Anaheim Global Medical Center,106301188.0,Breast,,1.0,-117.90921,33.8209
+2017,Orange,Anaheim Global Medical Center,106301188.0,Colon,,1.0,-117.90921,33.8209
+2017,Orange,Anaheim Global Medical Center,106301188.0,Liver,,1.0,-117.90921,33.8209
+2017,Orange,Anaheim Global Medical Center,106301188.0,Lung,,2.0,-117.90921,33.8209
+2017,Orange,Anaheim Global Medical Center,106301188.0,Rectum,,1.0,-117.90921,33.8209
+2017,Orange,Chapman Global Medical Center,106301140.0,Rectum,,1.0,-117.82586,33.78785
+2017,Orange,Foothill Regional Medical Center,106301357.0,Colon,,6.0,,
+2017,Orange,Foothill Regional Medical Center,106301357.0,Rectum,,2.0,,
+2017,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Brain,,6.0,-117.93694,33.71546
+2017,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Breast,,84.0,-117.93694,33.71546
+2017,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Colon,,47.0,-117.93694,33.71546
+2017,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Esophagus,,2.0,-117.93694,33.71546
+2017,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Liver,,19.0,-117.93694,33.71546
+2017,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Lung,,31.0,-117.93694,33.71546
+2017,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Pancreas,,13.0,-117.93694,33.71546
+2017,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Prostate,,1.0,-117.93694,33.71546
+2017,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Rectum,,28.0,-117.93694,33.71546
+2017,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Stomach,,11.0,-117.93694,33.71546
+2017,Orange,Garden Grove Hospital and Medical Center,106301283.0,Breast,,4.0,-117.9130315,33.7745089
+2017,Orange,Garden Grove Hospital and Medical Center,106301283.0,Colon,,6.0,-117.9130315,33.7745089
+2017,Orange,Garden Grove Hospital and Medical Center,106301283.0,Prostate,,1.0,-117.9130315,33.7745089
+2017,Orange,Garden Grove Hospital and Medical Center,106301283.0,Rectum,,3.0,-117.9130315,33.7745089
+2017,Orange,Garden Grove Hospital and Medical Center,106301283.0,Stomach,,1.0,-117.9130315,33.7745089
+2017,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Bladder,,11.0,-117.92949,33.62526
+2017,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Brain,,91.0,-117.92949,33.62526
+2017,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Breast,,625.0,-117.92949,33.62526
+2017,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Colon,,111.0,-117.92949,33.62526
+2017,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Esophagus,,13.0,-117.92949,33.62526
+2017,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Liver,,24.0,-117.92949,33.62526
+2017,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Lung,,91.0,-117.92949,33.62526
+2017,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Pancreas,,28.0,-117.92949,33.62526
+2017,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Prostate,,186.0,-117.92949,33.62526
+2017,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Rectum,,46.0,-117.92949,33.62526
+2017,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Stomach,,8.0,-117.92949,33.62526
+2017,Orange,Huntington Beach Hospital,106301209.0,Colon,,2.0,-117.98895,33.70442
+2017,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Bladder,,17.0,-117.8439815,33.8544317
+2017,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Brain,,22.0,-117.8439815,33.8544317
+2017,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Breast,,535.0,-117.8439815,33.8544317
+2017,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Colon,,90.0,-117.8439815,33.8544317
+2017,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Esophagus,,6.0,-117.8439815,33.8544317
+2017,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Liver,,10.0,-117.8439815,33.8544317
+2017,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Lung,,36.0,-117.8439815,33.8544317
+2017,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Pancreas,,11.0,-117.8439815,33.8544317
+2017,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Prostate,,3.0,-117.8439815,33.8544317
+2017,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Rectum,,37.0,-117.8439815,33.8544317
+2017,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Stomach,,3.0,-117.8439815,33.8544317
+2017,Orange,La Palma Intercommunity Hospital,106301234.0,Breast,,1.0,-118.03737,33.8485
+2017,Orange,La Palma Intercommunity Hospital,106301234.0,Colon,,7.0,-118.03737,33.8485
+2017,Orange,La Palma Intercommunity Hospital,106301234.0,Stomach,,1.0,-118.03737,33.8485
+2017,Orange,Los Alamitos Medical Center,106301248.0,Bladder,,1.0,-118.0674,33.80327
+2017,Orange,Los Alamitos Medical Center,106301248.0,Brain,,10.0,-118.0674,33.80327
+2017,Orange,Los Alamitos Medical Center,106301248.0,Breast,,162.0,-118.0674,33.80327
+2017,Orange,Los Alamitos Medical Center,106301248.0,Colon,,24.0,-118.0674,33.80327
+2017,Orange,Los Alamitos Medical Center,106301248.0,Liver,,2.0,-118.0674,33.80327
+2017,Orange,Los Alamitos Medical Center,106301248.0,Lung,,5.0,-118.0674,33.80327
+2017,Orange,Los Alamitos Medical Center,106301248.0,Prostate,,52.0,-118.0674,33.80327
+2017,Orange,Los Alamitos Medical Center,106301248.0,Rectum,,5.0,-118.0674,33.80327
+2017,Orange,Los Alamitos Medical Center,106301248.0,Stomach,,1.0,-118.0674,33.80327
+2017,Orange,Mission Hospital Laguna Beach,106301337.0,Breast,,7.0,-117.7422502,33.4997391
+2017,Orange,Mission Hospital Laguna Beach,106301337.0,Colon,,6.0,-117.7422502,33.4997391
+2017,Orange,Mission Hospital Laguna Beach,106301337.0,Rectum,,1.0,-117.7422502,33.4997391
+2017,Orange,Mission Hospital Laguna Beach,106301337.0,Stomach,,1.0,-117.7422502,33.4997391
+2017,Orange,Mission Hospital Regional Medical Center,106301262.0,Bladder,,2.0,-117.66768,33.56279
+2017,Orange,Mission Hospital Regional Medical Center,106301262.0,Brain,,30.0,-117.66768,33.56279
+2017,Orange,Mission Hospital Regional Medical Center,106301262.0,Breast,,65.0,-117.66768,33.56279
+2017,Orange,Mission Hospital Regional Medical Center,106301262.0,Colon,,41.0,-117.66768,33.56279
+2017,Orange,Mission Hospital Regional Medical Center,106301262.0,Esophagus,,6.0,-117.66768,33.56279
+2017,Orange,Mission Hospital Regional Medical Center,106301262.0,Liver,,1.0,-117.66768,33.56279
+2017,Orange,Mission Hospital Regional Medical Center,106301262.0,Lung,,45.0,-117.66768,33.56279
+2017,Orange,Mission Hospital Regional Medical Center,106301262.0,Pancreas,,2.0,-117.66768,33.56279
+2017,Orange,Mission Hospital Regional Medical Center,106301262.0,Prostate,,25.0,-117.66768,33.56279
+2017,Orange,Mission Hospital Regional Medical Center,106301262.0,Rectum,,12.0,-117.66768,33.56279
+2017,Orange,Mission Hospital Regional Medical Center,106301262.0,Stomach,,3.0,-117.66768,33.56279
+2017,Orange,Orange Coast Memorial Medical Center,106300225.0,Bladder,,3.0,-117.95524,33.70162
+2017,Orange,Orange Coast Memorial Medical Center,106300225.0,Brain,,9.0,-117.95524,33.70162
+2017,Orange,Orange Coast Memorial Medical Center,106300225.0,Breast,,150.0,-117.95524,33.70162
+2017,Orange,Orange Coast Memorial Medical Center,106300225.0,Colon,,45.0,-117.95524,33.70162
+2017,Orange,Orange Coast Memorial Medical Center,106300225.0,Esophagus,,1.0,-117.95524,33.70162
+2017,Orange,Orange Coast Memorial Medical Center,106300225.0,Liver,,38.0,-117.95524,33.70162
+2017,Orange,Orange Coast Memorial Medical Center,106300225.0,Lung,,16.0,-117.95524,33.70162
+2017,Orange,Orange Coast Memorial Medical Center,106300225.0,Pancreas,,12.0,-117.95524,33.70162
+2017,Orange,Orange Coast Memorial Medical Center,106300225.0,Prostate,,21.0,-117.95524,33.70162
+2017,Orange,Orange Coast Memorial Medical Center,106300225.0,Rectum,,19.0,-117.95524,33.70162
+2017,Orange,Orange Coast Memorial Medical Center,106300225.0,Stomach,,8.0,-117.95524,33.70162
+2017,Orange,Orange County Global Medical Center,106301566.0,Brain,,6.0,-117.83398,33.75361
+2017,Orange,Orange County Global Medical Center,106301566.0,Breast,,21.0,-117.83398,33.75361
+2017,Orange,Orange County Global Medical Center,106301566.0,Colon,,5.0,-117.83398,33.75361
+2017,Orange,Orange County Global Medical Center,106301566.0,Liver,,1.0,-117.83398,33.75361
+2017,Orange,Orange County Global Medical Center,106301566.0,Lung,,1.0,-117.83398,33.75361
+2017,Orange,Orange County Global Medical Center,106301566.0,Rectum,,3.0,-117.83398,33.75361
+2017,Orange,Orange County Global Medical Center,106301566.0,Stomach,,2.0,-117.83398,33.75361
+2017,Orange,Placentia Linda Hospital,106301297.0,Breast,,45.0,-117.8431129,33.88704521
+2017,Orange,Placentia Linda Hospital,106301297.0,Colon,,8.0,-117.8431129,33.88704521
+2017,Orange,Placentia Linda Hospital,106301297.0,Lung,,1.0,-117.8431129,33.88704521
+2017,Orange,Placentia Linda Hospital,106301297.0,Pancreas,,1.0,-117.8431129,33.88704521
+2017,Orange,Placentia Linda Hospital,106301297.0,Prostate,,5.0,-117.8431129,33.88704521
+2017,Orange,Placentia Linda Hospital,106301297.0,Rectum,,7.0,-117.8431129,33.88704521
+2017,Orange,Placentia Linda Hospital,106301297.0,Stomach,,1.0,-117.8431129,33.88704521
+2017,Orange,Saddleback Memorial Medical Center,106301317.0,Bladder,,3.0,-117.70837,33.60796
+2017,Orange,Saddleback Memorial Medical Center,106301317.0,Brain,,23.0,-117.70837,33.60796
+2017,Orange,Saddleback Memorial Medical Center,106301317.0,Breast,,165.0,-117.70837,33.60796
+2017,Orange,Saddleback Memorial Medical Center,106301317.0,Colon,,33.0,-117.70837,33.60796
+2017,Orange,Saddleback Memorial Medical Center,106301317.0,Lung,,21.0,-117.70837,33.60796
+2017,Orange,Saddleback Memorial Medical Center,106301317.0,Prostate,,41.0,-117.70837,33.60796
+2017,Orange,Saddleback Memorial Medical Center,106301317.0,Rectum,,6.0,-117.70837,33.60796
+2017,Orange,Saddleback Memorial Medical Center,106301317.0,Stomach,,2.0,-117.70837,33.60796
+2017,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Brain,,26.0,-117.86516,33.7823
+2017,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Breast,,273.0,-117.86516,33.7823
+2017,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Colon,,46.0,-117.86516,33.7823
+2017,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Esophagus,,1.0,-117.86516,33.7823
+2017,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Liver,,8.0,-117.86516,33.7823
+2017,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Lung,,52.0,-117.86516,33.7823
+2017,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Pancreas,,17.0,-117.86516,33.7823
+2017,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Prostate,,53.0,-117.86516,33.7823
+2017,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Rectum,,26.0,-117.86516,33.7823
+2017,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Stomach,,9.0,-117.86516,33.7823
+2017,Orange,Saint Jude Medical Center,106301342.0,Brain,,35.0,-117.92851,33.89349
+2017,Orange,Saint Jude Medical Center,106301342.0,Breast,,230.0,-117.92851,33.89349
+2017,Orange,Saint Jude Medical Center,106301342.0,Colon,,47.0,-117.92851,33.89349
+2017,Orange,Saint Jude Medical Center,106301342.0,Liver,,6.0,-117.92851,33.89349
+2017,Orange,Saint Jude Medical Center,106301342.0,Lung,,9.0,-117.92851,33.89349
+2017,Orange,Saint Jude Medical Center,106301342.0,Pancreas,,3.0,-117.92851,33.89349
+2017,Orange,Saint Jude Medical Center,106301342.0,Prostate,,54.0,-117.92851,33.89349
+2017,Orange,Saint Jude Medical Center,106301342.0,Rectum,,19.0,-117.92851,33.89349
+2017,Orange,Saint Jude Medical Center,106301342.0,Stomach,,1.0,-117.92851,33.89349
+2017,Orange,South Coast Global Medical Center,106301258.0,Breast,,27.0,-117.88539,33.71112
+2017,Orange,South Coast Global Medical Center,106301258.0,Colon,,3.0,-117.88539,33.71112
+2017,Orange,South Coast Global Medical Center,106301258.0,Prostate,,6.0,-117.88539,33.71112
+2017,Orange,South Coast Global Medical Center,106301258.0,Rectum,,1.0,-117.88539,33.71112
+2017,Orange,UC Irvine Medical Center,106301279.0,Bladder,,21.0,-117.89064,33.7889
+2017,Orange,UC Irvine Medical Center,106301279.0,Brain,,108.0,-117.89064,33.7889
+2017,Orange,UC Irvine Medical Center,106301279.0,Breast,,144.0,-117.89064,33.7889
+2017,Orange,UC Irvine Medical Center,106301279.0,Colon,,57.0,-117.89064,33.7889
+2017,Orange,UC Irvine Medical Center,106301279.0,Esophagus,,6.0,-117.89064,33.7889
+2017,Orange,UC Irvine Medical Center,106301279.0,Liver,,19.0,-117.89064,33.7889
+2017,Orange,UC Irvine Medical Center,106301279.0,Lung,,32.0,-117.89064,33.7889
+2017,Orange,UC Irvine Medical Center,106301279.0,Pancreas,,42.0,-117.89064,33.7889
+2017,Orange,UC Irvine Medical Center,106301279.0,Prostate,,59.0,-117.89064,33.7889
+2017,Orange,UC Irvine Medical Center,106301279.0,Rectum,,58.0,-117.89064,33.7889
+2017,Orange,UC Irvine Medical Center,106301279.0,Stomach,,21.0,-117.89064,33.7889
+2017,Orange,West Anaheim Medical Center,106301379.0,Breast,,2.0,-117.99492,33.82482
+2017,Orange,West Anaheim Medical Center,106301379.0,Colon,,4.0,-117.99492,33.82482
+2017,Orange,West Anaheim Medical Center,106301379.0,Lung,,1.0,-117.99492,33.82482
+2018,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Stomach,,9.0,-117.95524,33.70162
+2018,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Rectum,,30.0,-117.95524,33.70162
+2018,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Prostate,,16.0,-117.95524,33.70162
+2018,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Pancreas,,15.0,-117.95524,33.70162
+2018,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Lung,,11.0,-117.95524,33.70162
+2018,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Liver,,37.0,-117.95524,33.70162
+2018,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Breast,,152.0,-117.95524,33.70162
+2018,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Brain,,10.0,-117.95524,33.70162
+2018,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Bladder,,2.0,-117.95524,33.70162
+2018,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Colon,,49.0,-117.95524,33.70162
+2018,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Stomach,,6.0,-117.93248,33.84725
+2018,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Rectum,,5.0,-117.93248,33.84725
+2018,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Prostate,,6.0,-117.93248,33.84725
+2018,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Pancreas,,2.0,-117.93248,33.84725
+2018,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Lung,,19.0,-117.93248,33.84725
+2018,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Esophagus,,3.0,-117.93248,33.84725
+2018,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Colon,,27.0,-117.93248,33.84725
+2018,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Breast,,89.0,-117.93248,33.84725
+2018,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Brain,,2.0,-117.93248,33.84725
+2018,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Bladder,,2.0,-117.93248,33.84725
+2018,Orange,Chapman Global Medical Center,106301140.0,Colon,,3.0,-117.82586,33.78785
+2018,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Stomach,,9.0,-117.93694,33.71546
+2018,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Rectum,,28.0,-117.93694,33.71546
+2018,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Prostate,,7.0,-117.93694,33.71546
+2018,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Pancreas,,7.0,-117.93694,33.71546
+2018,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Lung,,26.0,-117.93694,33.71546
+2018,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Liver,,22.0,-117.93694,33.71546
+2018,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Esophagus,,1.0,-117.93694,33.71546
+2018,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Colon,,50.0,-117.93694,33.71546
+2018,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Breast,,93.0,-117.93694,33.71546
+2018,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Brain,,12.0,-117.93694,33.71546
+2018,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Bladder,,1.0,-117.93694,33.71546
+2018,Orange,Anaheim Global Medical Center,106301188.0,Lung,,5.0,-117.90921,33.8209
+2018,Orange,Anaheim Global Medical Center,106301188.0,Esophagus,,1.0,-117.90921,33.8209
+2018,Orange,Anaheim Global Medical Center,106301188.0,Breast,,1.0,-117.90921,33.8209
+2018,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Stomach,,12.0,-117.92949,33.62526
+2018,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Rectum,,32.0,-117.92949,33.62526
+2018,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Prostate,,123.0,-117.92949,33.62526
+2018,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Pancreas,,30.0,-117.92949,33.62526
+2018,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Lung,,101.0,-117.92949,33.62526
+2018,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Liver,,22.0,-117.92949,33.62526
+2018,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Esophagus,,10.0,-117.92949,33.62526
+2018,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Colon,,120.0,-117.92949,33.62526
+2018,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Breast,,659.0,-117.92949,33.62526
+2018,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Brain,,81.0,-117.92949,33.62526
+2018,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Bladder,,14.0,-117.92949,33.62526
+2018,Orange,Huntington Beach Hospital,106301209.0,Stomach,,1.0,-117.98895,33.70442
+2018,Orange,Huntington Beach Hospital,106301209.0,Colon,,2.0,-117.98895,33.70442
+2018,Orange,La Palma Intercommunity Hospital,106301234.0,Colon,,5.0,-118.0373,33.84755
+2018,Orange,Los Alamitos Medical Center,106301248.0,Rectum,,3.0,-118.0674,33.80327
+2018,Orange,Los Alamitos Medical Center,106301248.0,Prostate,,46.0,-118.0674,33.80327
+2018,Orange,Los Alamitos Medical Center,106301248.0,Pancreas,,3.0,-118.0674,33.80327
+2018,Orange,Los Alamitos Medical Center,106301248.0,Lung,,5.0,-118.0674,33.80327
+2018,Orange,Los Alamitos Medical Center,106301248.0,Colon,,28.0,-118.0674,33.80327
+2018,Orange,Los Alamitos Medical Center,106301248.0,Breast,,131.0,-118.0674,33.80327
+2018,Orange,Los Alamitos Medical Center,106301248.0,Brain,,11.0,-118.0674,33.80327
+2018,Orange,Los Alamitos Medical Center,106301248.0,Bladder,,1.0,-118.0674,33.80327
+2018,Orange,Los Alamitos Medical Center,106301248.0,Stomach,,2.0,-118.0674,33.80327
+2018,Orange,South Coast Global Medical Center,106301258.0,Stomach,,1.0,-117.88539,33.71112
+2018,Orange,South Coast Global Medical Center,106301258.0,Rectum,,2.0,-117.88539,33.71112
+2018,Orange,South Coast Global Medical Center,106301258.0,Colon,,3.0,-117.88539,33.71112
+2018,Orange,South Coast Global Medical Center,106301258.0,Breast,,9.0,-117.88539,33.71112
+2018,Orange,South Coast Global Medical Center,106301258.0,Pancreas,,1.0,-117.88539,33.71112
+2018,Orange,Mission Hospital Regional Medical Center,106301262.0,Rectum,,11.0,-117.66768,33.56279
+2018,Orange,Mission Hospital Regional Medical Center,106301262.0,Liver,,2.0,-117.66768,33.56279
+2018,Orange,Mission Hospital Regional Medical Center,106301262.0,Stomach,,4.0,-117.66768,33.56279
+2018,Orange,Mission Hospital Regional Medical Center,106301262.0,Prostate,,29.0,-117.66768,33.56279
+2018,Orange,Mission Hospital Regional Medical Center,106301262.0,Pancreas,,3.0,-117.66768,33.56279
+2018,Orange,Mission Hospital Regional Medical Center,106301262.0,Lung,,37.0,-117.66768,33.56279
+2018,Orange,Mission Hospital Regional Medical Center,106301262.0,Esophagus,,3.0,-117.66768,33.56279
+2018,Orange,Mission Hospital Regional Medical Center,106301262.0,Colon,,34.0,-117.66768,33.56279
+2018,Orange,Mission Hospital Regional Medical Center,106301262.0,Breast,,62.0,-117.66768,33.56279
+2018,Orange,Mission Hospital Regional Medical Center,106301262.0,Brain,,31.0,-117.66768,33.56279
+2018,Orange,Mission Hospital Regional Medical Center,106301262.0,Bladder,,1.0,-117.66768,33.56279
+2018,Orange,UC Irvine Medical Center,106301279.0,Rectum,,53.0,-117.8901339,33.7879885
+2018,Orange,UC Irvine Medical Center,106301279.0,Stomach,,28.0,-117.8901339,33.7879885
+2018,Orange,UC Irvine Medical Center,106301279.0,Prostate,,25.0,-117.8901339,33.7879885
+2018,Orange,UC Irvine Medical Center,106301279.0,Pancreas,,38.0,-117.8901339,33.7879885
+2018,Orange,UC Irvine Medical Center,106301279.0,Lung,,19.0,-117.8901339,33.7879885
+2018,Orange,UC Irvine Medical Center,106301279.0,Esophagus,,12.0,-117.8901339,33.7879885
+2018,Orange,UC Irvine Medical Center,106301279.0,Colon,,69.0,-117.8901339,33.7879885
+2018,Orange,UC Irvine Medical Center,106301279.0,Breast,,98.0,-117.8901339,33.7879885
+2018,Orange,UC Irvine Medical Center,106301279.0,Brain,,93.0,-117.8901339,33.7879885
+2018,Orange,UC Irvine Medical Center,106301279.0,Bladder,,14.0,-117.8901339,33.7879885
+2018,Orange,UC Irvine Medical Center,106301279.0,Liver,,32.0,-117.8901339,33.7879885
+2018,Orange,Garden Grove Hospital and Medical Center,106301283.0,Stomach,,1.0,-117.9130315,33.7745089
+2018,Orange,Garden Grove Hospital and Medical Center,106301283.0,Colon,,5.0,-117.9130315,33.7745089
+2018,Orange,Garden Grove Hospital and Medical Center,106301283.0,Breast,,5.0,-117.9130315,33.7745089
+2018,Orange,Placentia Linda Hospital,106301297.0,Stomach,,1.0,-117.8434267,33.887072
+2018,Orange,Placentia Linda Hospital,106301297.0,Rectum,,4.0,-117.8434267,33.887072
+2018,Orange,Placentia Linda Hospital,106301297.0,Prostate,,3.0,-117.8434267,33.887072
+2018,Orange,Placentia Linda Hospital,106301297.0,Liver,,1.0,-117.8434267,33.887072
+2018,Orange,Placentia Linda Hospital,106301297.0,Colon,,9.0,-117.8434267,33.887072
+2018,Orange,Placentia Linda Hospital,106301297.0,Breast,,37.0,-117.8434267,33.887072
+2018,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Stomach,,4.0,-117.70825,33.60802
+2018,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Rectum,,6.0,-117.70825,33.60802
+2018,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Prostate,,45.0,-117.70825,33.60802
+2018,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Lung,,24.0,-117.70825,33.60802
+2018,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Liver,,1.0,-117.70825,33.60802
+2018,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Colon,,35.0,-117.70825,33.60802
+2018,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Breast,,177.0,-117.70825,33.60802
+2018,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Brain,,16.0,-117.70825,33.60802
+2018,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Bladder,,3.0,-117.70825,33.60802
+2018,Orange,Mission Hospital Laguna Beach,106301337.0,Breast,,26.0,-117.7422502,33.4997391
+2018,Orange,Mission Hospital Laguna Beach,106301337.0,Rectum,,4.0,-117.7422502,33.4997391
+2018,Orange,Mission Hospital Laguna Beach,106301337.0,Colon,,5.0,-117.7422502,33.4997391
+2018,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Stomach,,7.0,-117.86516,33.7823
+2018,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Rectum,,14.0,-117.86516,33.7823
+2018,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Prostate,,64.0,-117.86516,33.7823
+2018,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Pancreas,,8.0,-117.86516,33.7823
+2018,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Lung,,41.0,-117.86516,33.7823
+2018,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Liver,,11.0,-117.86516,33.7823
+2018,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Esophagus,,3.0,-117.86516,33.7823
+2018,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Colon,,57.0,-117.86516,33.7823
+2018,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Breast,,320.0,-117.86516,33.7823
+2018,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Brain,,32.0,-117.86516,33.7823
+2018,Orange,Saint Jude Medical Center,106301342.0,Stomach,,4.0,-117.92851,33.89349
+2018,Orange,Saint Jude Medical Center,106301342.0,Rectum,,18.0,-117.92851,33.89349
+2018,Orange,Saint Jude Medical Center,106301342.0,Prostate,,30.0,-117.92851,33.89349
+2018,Orange,Saint Jude Medical Center,106301342.0,Pancreas,,11.0,-117.92851,33.89349
+2018,Orange,Saint Jude Medical Center,106301342.0,Lung,,21.0,-117.92851,33.89349
+2018,Orange,Saint Jude Medical Center,106301342.0,Liver,,12.0,-117.92851,33.89349
+2018,Orange,Saint Jude Medical Center,106301342.0,Esophagus,,3.0,-117.92851,33.89349
+2018,Orange,Saint Jude Medical Center,106301342.0,Colon,,62.0,-117.92851,33.89349
+2018,Orange,Saint Jude Medical Center,106301342.0,Breast,,217.0,-117.92851,33.89349
+2018,Orange,Saint Jude Medical Center,106301342.0,Brain,,36.0,-117.92851,33.89349
+2018,Orange,Foothill Regional Medical Center,106301357.0,Rectum,,1.0,-117.82903,33.73119
+2018,Orange,Foothill Regional Medical Center,106301357.0,Prostate,,1.0,-117.82903,33.73119
+2018,Orange,Foothill Regional Medical Center,106301357.0,Lung,,3.0,-117.82903,33.73119
+2018,Orange,Foothill Regional Medical Center,106301357.0,Colon,,2.0,-117.82903,33.73119
+2018,Orange,West Anaheim Medical Center,106301379.0,Stomach,,1.0,-117.99492,33.82482
+2018,Orange,West Anaheim Medical Center,106301379.0,Rectum,,1.0,-117.99492,33.82482
+2018,Orange,West Anaheim Medical Center,106301379.0,Lung,,1.0,-117.99492,33.82482
+2018,Orange,West Anaheim Medical Center,106301379.0,Colon,,5.0,-117.99492,33.82482
+2018,Orange,West Anaheim Medical Center,106301379.0,Breast,,2.0,-117.99492,33.82482
+2018,Orange,Orange County Global Medical Center,106301566.0,Stomach,,2.0,-117.83398,33.75361
+2018,Orange,Orange County Global Medical Center,106301566.0,Lung,,2.0,-117.83398,33.75361
+2018,Orange,Orange County Global Medical Center,106301566.0,Liver,,1.0,-117.83398,33.75361
+2018,Orange,Orange County Global Medical Center,106301566.0,Colon,,5.0,-117.83398,33.75361
+2018,Orange,Orange County Global Medical Center,106301566.0,Breast,,27.0,-117.83398,33.75361
+2018,Orange,Orange County Global Medical Center,106301566.0,Brain,,4.0,-117.83398,33.75361
+2018,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Stomach,,10.0,-117.84399,33.85442
+2018,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Rectum,,37.0,-117.84399,33.85442
+2018,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Prostate,,1.0,-117.84399,33.85442
+2018,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Pancreas,,10.0,-117.84399,33.85442
+2018,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Lung,,44.0,-117.84399,33.85442
+2018,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Liver,,17.0,-117.84399,33.85442
+2018,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Esophagus,,6.0,-117.84399,33.85442
+2018,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Colon,,95.0,-117.84399,33.85442
+2018,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Breast,,583.0,-117.84399,33.85442
+2018,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Brain,,31.0,-117.84399,33.85442
+2018,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Bladder,,7.0,-117.84399,33.85442
+2019,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Stomach,,6.0,-117.95524,33.70162
+2019,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Rectum,,27.0,-117.95524,33.70162
+2019,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Pancreas,,12.0,-117.95524,33.70162
+2019,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Lung,,25.0,-117.95524,33.70162
+2019,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Liver,,36.0,-117.95524,33.70162
+2019,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Colon,,35.0,-117.95524,33.70162
+2019,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Breast,,143.0,-117.95524,33.70162
+2019,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Brain,,7.0,-117.95524,33.70162
+2019,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Bladder,,1.0,-117.95524,33.70162
+2019,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Prostate,,10.0,-117.95524,33.70162
+2019,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Stomach,,7.0,-117.93248,33.84725
+2019,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Rectum,,4.0,-117.93248,33.84725
+2019,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Prostate,,3.0,-117.93248,33.84725
+2019,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Lung,,7.0,-117.93248,33.84725
+2019,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Liver,,1.0,-117.93248,33.84725
+2019,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Colon,,21.0,-117.93248,33.84725
+2019,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Breast,,80.0,-117.93248,33.84725
+2019,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Brain,,1.0,-117.93248,33.84725
+2019,Orange,Chapman Global Medical Center,106301140.0,Colon,,4.0,-117.82586,33.78785
+2019,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Stomach,,8.0,-117.93694,33.71546
+2019,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Rectum,,48.0,-117.93694,33.71546
+2019,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Prostate,,12.0,-117.93694,33.71546
+2019,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Pancreas,,9.0,-117.93694,33.71546
+2019,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Lung,,18.0,-117.93694,33.71546
+2019,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Liver,,23.0,-117.93694,33.71546
+2019,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Esophagus,,1.0,-117.93694,33.71546
+2019,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Colon,,41.0,-117.93694,33.71546
+2019,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Breast,,93.0,-117.93694,33.71546
+2019,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Brain,,8.0,-117.93694,33.71546
+2019,Orange,Anaheim Global Medical Center,106301188.0,Rectum,,1.0,-117.90921,33.8209
+2019,Orange,Anaheim Global Medical Center,106301188.0,Lung,,5.0,-117.90921,33.8209
+2019,Orange,Anaheim Global Medical Center,106301188.0,Colon,,1.0,-117.90921,33.8209
+2019,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Stomach,,12.0,-117.92949,33.62526
+2019,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Rectum,,55.0,-117.92949,33.62526
+2019,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Prostate,,102.0,-117.92949,33.62526
+2019,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Pancreas,,44.0,-117.92949,33.62526
+2019,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Lung,,93.0,-117.92949,33.62526
+2019,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Liver,,31.0,-117.92949,33.62526
+2019,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Esophagus,,6.0,-117.92949,33.62526
+2019,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Colon,,113.0,-117.92949,33.62526
+2019,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Breast,,689.0,-117.92949,33.62526
+2019,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Brain,,97.0,-117.92949,33.62526
+2019,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Bladder,,10.0,-117.92949,33.62526
+2019,Orange,Huntington Beach Hospital,106301209.0,Breast,,1.0,-117.98895,33.70442
+2019,Orange,La Palma Intercommunity Hospital,106301234.0,Rectum,,1.0,-118.0373,33.84755
+2019,Orange,La Palma Intercommunity Hospital,106301234.0,Colon,,7.0,-118.0373,33.84755
+2019,Orange,La Palma Intercommunity Hospital,106301234.0,Breast,,1.0,-118.0373,33.84755
+2019,Orange,Los Alamitos Medical Center,106301248.0,Rectum,,6.0,-118.0674,33.80327
+2019,Orange,Los Alamitos Medical Center,106301248.0,Stomach,,2.0,-118.0674,33.80327
+2019,Orange,Los Alamitos Medical Center,106301248.0,Prostate,,31.0,-118.0674,33.80327
+2019,Orange,Los Alamitos Medical Center,106301248.0,Lung,,4.0,-118.0674,33.80327
+2019,Orange,Los Alamitos Medical Center,106301248.0,Liver,,1.0,-118.0674,33.80327
+2019,Orange,Los Alamitos Medical Center,106301248.0,Colon,,23.0,-118.0674,33.80327
+2019,Orange,Los Alamitos Medical Center,106301248.0,Breast,,112.0,-118.0674,33.80327
+2019,Orange,Los Alamitos Medical Center,106301248.0,Brain,,10.0,-118.0674,33.80327
+2019,Orange,South Coast Global Medical Center,106301258.0,Stomach,,2.0,-117.88539,33.71112
+2019,Orange,South Coast Global Medical Center,106301258.0,Rectum,,1.0,-117.88539,33.71112
+2019,Orange,South Coast Global Medical Center,106301258.0,Colon,,4.0,-117.88539,33.71112
+2019,Orange,South Coast Global Medical Center,106301258.0,Breast,,20.0,-117.88539,33.71112
+2019,Orange,Mission Hospital Regional Medical Center,106301262.0,Pancreas,,12.0,-117.66768,33.56279
+2019,Orange,Mission Hospital Regional Medical Center,106301262.0,Lung,,43.0,-117.66768,33.56279
+2019,Orange,Mission Hospital Regional Medical Center,106301262.0,Liver,,3.0,-117.66768,33.56279
+2019,Orange,Mission Hospital Regional Medical Center,106301262.0,Esophagus,,2.0,-117.66768,33.56279
+2019,Orange,Mission Hospital Regional Medical Center,106301262.0,Colon,,35.0,-117.66768,33.56279
+2019,Orange,Mission Hospital Regional Medical Center,106301262.0,Breast,,77.0,-117.66768,33.56279
+2019,Orange,Mission Hospital Regional Medical Center,106301262.0,Brain,,32.0,-117.66768,33.56279
+2019,Orange,Mission Hospital Regional Medical Center,106301262.0,Bladder,,1.0,-117.66768,33.56279
+2019,Orange,Mission Hospital Regional Medical Center,106301262.0,Prostate,,29.0,-117.66768,33.56279
+2019,Orange,Mission Hospital Regional Medical Center,106301262.0,Stomach,,4.0,-117.66768,33.56279
+2019,Orange,Mission Hospital Regional Medical Center,106301262.0,Rectum,,10.0,-117.66768,33.56279
+2019,Orange,UC Irvine Medical Center,106301279.0,Pancreas,,36.0,-117.8901339,33.7879885
+2019,Orange,UC Irvine Medical Center,106301279.0,Stomach,,24.0,-117.8901339,33.7879885
+2019,Orange,UC Irvine Medical Center,106301279.0,Rectum,,90.0,-117.8901339,33.7879885
+2019,Orange,UC Irvine Medical Center,106301279.0,Prostate,,36.0,-117.8901339,33.7879885
+2019,Orange,UC Irvine Medical Center,106301279.0,Lung,,24.0,-117.8901339,33.7879885
+2019,Orange,UC Irvine Medical Center,106301279.0,Liver,,45.0,-117.8901339,33.7879885
+2019,Orange,UC Irvine Medical Center,106301279.0,Esophagus,,18.0,-117.8901339,33.7879885
+2019,Orange,UC Irvine Medical Center,106301279.0,Breast,,122.0,-117.8901339,33.7879885
+2019,Orange,UC Irvine Medical Center,106301279.0,Brain,,79.0,-117.8901339,33.7879885
+2019,Orange,UC Irvine Medical Center,106301279.0,Bladder,,12.0,-117.8901339,33.7879885
+2019,Orange,UC Irvine Medical Center,106301279.0,Colon,,78.0,-117.8901339,33.7879885
+2019,Orange,Garden Grove Hospital and Medical Center,106301283.0,Stomach,,2.0,-117.9130315,33.7745089
+2019,Orange,Garden Grove Hospital and Medical Center,106301283.0,Colon,,2.0,-117.9130315,33.7745089
+2019,Orange,Placentia Linda Hospital,106301297.0,Stomach,,2.0,-117.8434267,33.887072
+2019,Orange,Placentia Linda Hospital,106301297.0,Rectum,,7.0,-117.8434267,33.887072
+2019,Orange,Placentia Linda Hospital,106301297.0,Prostate,,23.0,-117.8434267,33.887072
+2019,Orange,Placentia Linda Hospital,106301297.0,Pancreas,,1.0,-117.8434267,33.887072
+2019,Orange,Placentia Linda Hospital,106301297.0,Liver,,1.0,-117.8434267,33.887072
+2019,Orange,Placentia Linda Hospital,106301297.0,Colon,,14.0,-117.8434267,33.887072
+2019,Orange,Placentia Linda Hospital,106301297.0,Breast,,52.0,-117.8434267,33.887072
+2019,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Stomach,,5.0,-117.70825,33.60802
+2019,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Rectum,,8.0,-117.70825,33.60802
+2019,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Prostate,,50.0,-117.70825,33.60802
+2019,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Lung,,27.0,-117.70825,33.60802
+2019,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Liver,,4.0,-117.70825,33.60802
+2019,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Esophagus,,1.0,-117.70825,33.60802
+2019,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Colon,,39.0,-117.70825,33.60802
+2019,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Breast,,180.0,-117.70825,33.60802
+2019,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Brain,,8.0,-117.70825,33.60802
+2019,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Bladder,,3.0,-117.70825,33.60802
+2019,Orange,Mission Hospital Laguna Beach,106301337.0,Rectum,,1.0,-117.7422502,33.4997391
+2019,Orange,Mission Hospital Laguna Beach,106301337.0,Colon,,5.0,-117.7422502,33.4997391
+2019,Orange,Mission Hospital Laguna Beach,106301337.0,Breast,,8.0,-117.7422502,33.4997391
+2019,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Stomach,,7.0,-117.86516,33.7823
+2019,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Rectum,,17.0,-117.86516,33.7823
+2019,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Pancreas,,8.0,-117.86516,33.7823
+2019,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Lung,,46.0,-117.86516,33.7823
+2019,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Liver,,12.0,-117.86516,33.7823
+2019,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Prostate,,75.0,-117.86516,33.7823
+2019,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Esophagus,,2.0,-117.86516,33.7823
+2019,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Colon,,61.0,-117.86516,33.7823
+2019,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Breast,,323.0,-117.86516,33.7823
+2019,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Brain,,32.0,-117.86516,33.7823
+2019,Orange,Saint Jude Medical Center,106301342.0,Stomach,,9.0,-117.92851,33.89349
+2019,Orange,Saint Jude Medical Center,106301342.0,Rectum,,16.0,-117.92851,33.89349
+2019,Orange,Saint Jude Medical Center,106301342.0,Prostate,,29.0,-117.92851,33.89349
+2019,Orange,Saint Jude Medical Center,106301342.0,Pancreas,,12.0,-117.92851,33.89349
+2019,Orange,Saint Jude Medical Center,106301342.0,Lung,,19.0,-117.92851,33.89349
+2019,Orange,Saint Jude Medical Center,106301342.0,Liver,,9.0,-117.92851,33.89349
+2019,Orange,Saint Jude Medical Center,106301342.0,Esophagus,,3.0,-117.92851,33.89349
+2019,Orange,Saint Jude Medical Center,106301342.0,Colon,,51.0,-117.92851,33.89349
+2019,Orange,Saint Jude Medical Center,106301342.0,Breast,,273.0,-117.92851,33.89349
+2019,Orange,Saint Jude Medical Center,106301342.0,Brain,,42.0,-117.92851,33.89349
+2019,Orange,Foothill Regional Medical Center,106301357.0,Stomach,,2.0,-117.82903,33.73119
+2019,Orange,Foothill Regional Medical Center,106301357.0,Rectum,,1.0,-117.82903,33.73119
+2019,Orange,Foothill Regional Medical Center,106301357.0,Colon,,6.0,-117.82903,33.73119
+2019,Orange,Foothill Regional Medical Center,106301357.0,Breast,,2.0,-117.82903,33.73119
+2019,Orange,West Anaheim Medical Center,106301379.0,Stomach,,1.0,-117.99492,33.82482
+2019,Orange,West Anaheim Medical Center,106301379.0,Rectum,,1.0,-117.99492,33.82482
+2019,Orange,West Anaheim Medical Center,106301379.0,Colon,,5.0,-117.99492,33.82482
+2019,Orange,West Anaheim Medical Center,106301379.0,Breast,,2.0,-117.99492,33.82482
+2019,Orange,Orange County Global Medical Center,106301566.0,Stomach,,2.0,-117.83398,33.75361
+2019,Orange,Orange County Global Medical Center,106301566.0,Rectum,,5.0,-117.83398,33.75361
+2019,Orange,Orange County Global Medical Center,106301566.0,Lung,,4.0,-117.83398,33.75361
+2019,Orange,Orange County Global Medical Center,106301566.0,Liver,,1.0,-117.83398,33.75361
+2019,Orange,Orange County Global Medical Center,106301566.0,Colon,,4.0,-117.83398,33.75361
+2019,Orange,Orange County Global Medical Center,106301566.0,Breast,,6.0,-117.83398,33.75361
+2019,Orange,Orange County Global Medical Center,106301566.0,Brain,,7.0,-117.83398,33.75361
+2019,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Stomach,,11.0,-117.84399,33.85442
+2019,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Rectum,,34.0,-117.84399,33.85442
+2019,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Prostate,,3.0,-117.84399,33.85442
+2019,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Pancreas,,12.0,-117.84399,33.85442
+2019,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Lung,,47.0,-117.84399,33.85442
+2019,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Liver,,12.0,-117.84399,33.85442
+2019,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Esophagus,,8.0,-117.84399,33.85442
+2019,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Colon,,115.0,-117.84399,33.85442
+2019,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Breast,,571.0,-117.84399,33.85442
+2019,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Brain,,35.0,-117.84399,33.85442
+2019,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Bladder,,9.0,-117.84399,33.85442
+2020,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Pancreas,,13.0,-117.95524,33.70162
+2020,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Stomach,,7.0,-117.95524,33.70162
+2020,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Rectum,,17.0,-117.95524,33.70162
+2020,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Prostate,,4.0,-117.95524,33.70162
+2020,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Lung,,15.0,-117.95524,33.70162
+2020,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Liver,,40.0,-117.95524,33.70162
+2020,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Colon,,29.0,-117.95524,33.70162
+2020,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Breast,,115.0,-117.95524,33.70162
+2020,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Bladder,,1.0,-117.95524,33.70162
+2020,Orange,Memorialcare Orange Coast Medical Center,106300225.0,Brain,,6.0,-117.95524,33.70162
+2020,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Stomach,,3.0,-117.93248,33.84725
+2020,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Prostate,,3.0,-117.93248,33.84725
+2020,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Lung,,14.0,-117.93248,33.84725
+2020,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Rectum,,5.0,-117.93248,33.84725
+2020,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Colon,,12.0,-117.93248,33.84725
+2020,Orange,AHMC Anaheim Regional Medical Center,106301098.0,Breast,,64.0,-117.93248,33.84725
+2020,Orange,Chapman Global Medical Center,106301140.0,Stomach,,1.0,-117.82586,33.78785
+2020,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Stomach,,11.0,-117.93694,33.71546
+2020,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Rectum,,34.0,-117.93694,33.71546
+2020,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Prostate,,20.0,-117.93694,33.71546
+2020,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Pancreas,,12.0,-117.93694,33.71546
+2020,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Lung,,14.0,-117.93694,33.71546
+2020,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Liver,,32.0,-117.93694,33.71546
+2020,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Colon,,55.0,-117.93694,33.71546
+2020,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Breast,,118.0,-117.93694,33.71546
+2020,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Brain,,7.0,-117.93694,33.71546
+2020,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175.0,Bladder,,1.0,-117.93694,33.71546
+2020,Orange,Anaheim Global Medical Center,106301188.0,Lung,,6.0,-117.90921,33.8209
+2020,Orange,Anaheim Global Medical Center,106301188.0,Esophagus,,1.0,-117.90921,33.8209
+2020,Orange,Anaheim Global Medical Center,106301188.0,Colon,,1.0,-117.90921,33.8209
+2020,Orange,Anaheim Global Medical Center,106301188.0,Breast,,3.0,-117.90921,33.8209
+2020,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Stomach,,7.0,-117.92949,33.62526
+2020,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Rectum,,38.0,-117.92949,33.62526
+2020,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Prostate,,68.0,-117.92949,33.62526
+2020,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Pancreas,,27.0,-117.92949,33.62526
+2020,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Liver,,23.0,-117.92949,33.62526
+2020,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Esophagus,,10.0,-117.92949,33.62526
+2020,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Colon,,98.0,-117.92949,33.62526
+2020,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Lung,,79.0,-117.92949,33.62526
+2020,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Breast,,644.0,-117.92949,33.62526
+2020,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Brain,,90.0,-117.92949,33.62526
+2020,Orange,Hoag Memorial Hospital Presbyterian,106301205.0,Bladder,,25.0,-117.92949,33.62526
+2020,Orange,Huntington Beach Hospital,106301209.0,Rectum,,1.0,-117.98895,33.70442
+2020,Orange,Huntington Beach Hospital,106301209.0,Colon,,2.0,-117.98895,33.70442
+2020,Orange,La Palma Intercommunity Hospital,106301234.0,Stomach,,2.0,-118.0373,33.84755
+2020,Orange,La Palma Intercommunity Hospital,106301234.0,Rectum,,2.0,-118.0373,33.84755
+2020,Orange,La Palma Intercommunity Hospital,106301234.0,Colon,,3.0,-118.0373,33.84755
+2020,Orange,Los Alamitos Medical Center,106301248.0,Stomach,,2.0,-118.0674,33.80327
+2020,Orange,Los Alamitos Medical Center,106301248.0,Rectum,,4.0,-118.0674,33.80327
+2020,Orange,Los Alamitos Medical Center,106301248.0,Prostate,,30.0,-118.0674,33.80327
+2020,Orange,Los Alamitos Medical Center,106301248.0,Lung,,8.0,-118.0674,33.80327
+2020,Orange,Los Alamitos Medical Center,106301248.0,Colon,,25.0,-118.0674,33.80327
+2020,Orange,Los Alamitos Medical Center,106301248.0,Breast,,99.0,-118.0674,33.80327
+2020,Orange,Los Alamitos Medical Center,106301248.0,Brain,,13.0,-118.0674,33.80327
+2020,Orange,South Coast Global Medical Center,106301258.0,Rectum,,1.0,-117.88539,33.71112
+2020,Orange,South Coast Global Medical Center,106301258.0,Colon,,2.0,-117.88539,33.71112
+2020,Orange,South Coast Global Medical Center,106301258.0,Breast,,9.0,-117.88539,33.71112
+2020,Orange,Mission Hospital Regional Medical Center,106301262.0,Esophagus,,4.0,-117.66768,33.56279
+2020,Orange,Mission Hospital Regional Medical Center,106301262.0,Prostate,,20.0,-117.66768,33.56279
+2020,Orange,Mission Hospital Regional Medical Center,106301262.0,Stomach,,5.0,-117.66768,33.56279
+2020,Orange,Mission Hospital Regional Medical Center,106301262.0,Rectum,,12.0,-117.66768,33.56279
+2020,Orange,Mission Hospital Regional Medical Center,106301262.0,Pancreas,,4.0,-117.66768,33.56279
+2020,Orange,Mission Hospital Regional Medical Center,106301262.0,Lung,,26.0,-117.66768,33.56279
+2020,Orange,Mission Hospital Regional Medical Center,106301262.0,Liver,,8.0,-117.66768,33.56279
+2020,Orange,Mission Hospital Regional Medical Center,106301262.0,Colon,,39.0,-117.66768,33.56279
+2020,Orange,Mission Hospital Regional Medical Center,106301262.0,Breast,,91.0,-117.66768,33.56279
+2020,Orange,Mission Hospital Regional Medical Center,106301262.0,Brain,,36.0,-117.66768,33.56279
+2020,Orange,Mission Hospital Regional Medical Center,106301262.0,Bladder,,3.0,-117.66768,33.56279
+2020,Orange,UC Irvine Medical Center,106301279.0,Colon,,69.0,-117.8901339,33.7879885
+2020,Orange,UC Irvine Medical Center,106301279.0,Breast,,125.0,-117.8901339,33.7879885
+2020,Orange,UC Irvine Medical Center,106301279.0,Brain,,99.0,-117.8901339,33.7879885
+2020,Orange,UC Irvine Medical Center,106301279.0,Bladder,,29.0,-117.8901339,33.7879885
+2020,Orange,UC Irvine Medical Center,106301279.0,Esophagus,,8.0,-117.8901339,33.7879885
+2020,Orange,UC Irvine Medical Center,106301279.0,Stomach,,26.0,-117.8901339,33.7879885
+2020,Orange,UC Irvine Medical Center,106301279.0,Rectum,,67.0,-117.8901339,33.7879885
+2020,Orange,UC Irvine Medical Center,106301279.0,Prostate,,22.0,-117.8901339,33.7879885
+2020,Orange,UC Irvine Medical Center,106301279.0,Pancreas,,36.0,-117.8901339,33.7879885
+2020,Orange,UC Irvine Medical Center,106301279.0,Lung,,28.0,-117.8901339,33.7879885
+2020,Orange,UC Irvine Medical Center,106301279.0,Liver,,50.0,-117.8901339,33.7879885
+2020,Orange,Garden Grove Hospital and Medical Center,106301283.0,Colon,,2.0,-117.9130315,33.7745089
+2020,Orange,Placentia Linda Hospital,106301297.0,Stomach,,1.0,-117.8434267,33.887072
+2020,Orange,Placentia Linda Hospital,106301297.0,Rectum,,4.0,-117.8434267,33.887072
+2020,Orange,Placentia Linda Hospital,106301297.0,Prostate,,13.0,-117.8434267,33.887072
+2020,Orange,Placentia Linda Hospital,106301297.0,Pancreas,,1.0,-117.8434267,33.887072
+2020,Orange,Placentia Linda Hospital,106301297.0,Liver,,2.0,-117.8434267,33.887072
+2020,Orange,Placentia Linda Hospital,106301297.0,Colon,,9.0,-117.8434267,33.887072
+2020,Orange,Placentia Linda Hospital,106301297.0,Breast,,56.0,-117.8434267,33.887072
+2020,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Stomach,,6.0,-117.70825,33.60802
+2020,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Rectum,,7.0,-117.70825,33.60802
+2020,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Prostate,,18.0,-117.70825,33.60802
+2020,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Pancreas,,2.0,-117.70825,33.60802
+2020,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Lung,,20.0,-117.70825,33.60802
+2020,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Liver,,4.0,-117.70825,33.60802
+2020,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Colon,,38.0,-117.70825,33.60802
+2020,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Breast,,201.0,-117.70825,33.60802
+2020,Orange,Memorialcare Saddleback  Medical Center,106301317.0,Brain,,18.0,-117.70825,33.60802
+2020,Orange,Mission Hospital Laguna Beach,106301337.0,Rectum,,4.0,-117.7422502,33.4997391
+2020,Orange,Mission Hospital Laguna Beach,106301337.0,Colon,,3.0,-117.7422502,33.4997391
+2020,Orange,Mission Hospital Laguna Beach,106301337.0,Breast,,6.0,-117.7422502,33.4997391
+2020,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Stomach,,6.0,-117.86516,33.7823
+2020,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Rectum,,17.0,-117.86516,33.7823
+2020,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Pancreas,,11.0,-117.86516,33.7823
+2020,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Lung,,51.0,-117.86516,33.7823
+2020,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Liver,,3.0,-117.86516,33.7823
+2020,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Prostate,,56.0,-117.86516,33.7823
+2020,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Esophagus,,2.0,-117.86516,33.7823
+2020,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Colon,,45.0,-117.86516,33.7823
+2020,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Breast,,153.0,-117.86516,33.7823
+2020,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Brain,,21.0,-117.86516,33.7823
+2020,Orange,Saint Joseph Hospital ñ Orange,106301340.0,Bladder,,1.0,-117.86516,33.7823
+2020,Orange,Saint Jude Medical Center,106301342.0,Rectum,,14.0,-117.92851,33.89349
+2020,Orange,Saint Jude Medical Center,106301342.0,Prostate,,30.0,-117.92851,33.89349
+2020,Orange,Saint Jude Medical Center,106301342.0,Pancreas,,13.0,-117.92851,33.89349
+2020,Orange,Saint Jude Medical Center,106301342.0,Lung,,12.0,-117.92851,33.89349
+2020,Orange,Saint Jude Medical Center,106301342.0,Liver,,12.0,-117.92851,33.89349
+2020,Orange,Saint Jude Medical Center,106301342.0,Esophagus,,2.0,-117.92851,33.89349
+2020,Orange,Saint Jude Medical Center,106301342.0,Colon,,39.0,-117.92851,33.89349
+2020,Orange,Saint Jude Medical Center,106301342.0,Breast,,217.0,-117.92851,33.89349
+2020,Orange,Saint Jude Medical Center,106301342.0,Brain,,45.0,-117.92851,33.89349
+2020,Orange,Saint Jude Medical Center,106301342.0,Stomach,,5.0,-117.92851,33.89349
+2020,Orange,Foothill Regional Medical Center,106301357.0,Stomach,,1.0,-117.82903,33.73119
+2020,Orange,Foothill Regional Medical Center,106301357.0,Rectum,,2.0,-117.82903,33.73119
+2020,Orange,Foothill Regional Medical Center,106301357.0,Colon,,3.0,-117.82903,33.73119
+2020,Orange,Foothill Regional Medical Center,106301357.0,Breast,,1.0,-117.82903,33.73119
+2020,Orange,West Anaheim Medical Center,106301379.0,Rectum,,1.0,-117.99492,33.82482
+2020,Orange,West Anaheim Medical Center,106301379.0,Colon,,6.0,-117.99492,33.82482
+2020,Orange,West Anaheim Medical Center,106301379.0,Breast,,1.0,-117.99492,33.82482
+2020,Orange,Orange County Global Medical Center,106301566.0,Prostate,,2.0,-117.83398,33.75361
+2020,Orange,Orange County Global Medical Center,106301566.0,Lung,,3.0,-117.83398,33.75361
+2020,Orange,Orange County Global Medical Center,106301566.0,Liver,,1.0,-117.83398,33.75361
+2020,Orange,Orange County Global Medical Center,106301566.0,Colon,,1.0,-117.83398,33.75361
+2020,Orange,Orange County Global Medical Center,106301566.0,Breast,,9.0,-117.83398,33.75361
+2020,Orange,Orange County Global Medical Center,106301566.0,Brain,,5.0,-117.83398,33.75361
+2020,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Pancreas,,6.0,-117.84399,33.85442
+2020,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Stomach,,12.0,-117.84399,33.85442
+2020,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Rectum,,48.0,-117.84399,33.85442
+2020,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Prostate,,30.0,-117.84399,33.85442
+2020,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Lung,,58.0,-117.84399,33.85442
+2020,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Liver,,9.0,-117.84399,33.85442
+2020,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Esophagus,,6.0,-117.84399,33.85442
+2020,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Colon,,78.0,-117.84399,33.85442
+2020,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Breast,,486.0,-117.84399,33.85442
+2020,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Brain,,48.0,-117.84399,33.85442
+2020,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409.0,Bladder,,6.0,-117.84399,33.85442
