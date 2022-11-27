@@ -1,4 +1,4 @@
-# Analyzing Cancer Data by California Counties
+# Analyzing Cancer Data in California Counties
 This is a repository containing a folder with a smaller subset of data curated from a larger dataset, as well as python notebooks to document the processes of creating and reproducing the subset. 
 
 This data is sourced from the [US Government Data Catalog](https://catalog.data.gov/dataset/number-of-cancer-surgeries-volume-performed-in-california-hospitals-6e092). It serves to quantify the different cancer-related surgeries that have been performed in the state of California. I chose this data set because I was interested in manipulating the data to examine the most common cancer-related surgeries and hone in on the specific counties where they occurred.
