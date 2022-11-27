@@ -13,7 +13,7 @@ This repository also consists of a Data Visualization folder containing two diff
 
 ![Orange_Subset Visualization](https://user-images.githubusercontent.com/118300502/202927827-dafa942a-4297-4b06-9936-9d811b8601c9.jpg)
 
-The first data visualization features a bubble chart to demonstrate the frequency of each surgery based on cancer type. This chart allows users to easily identify, based on bubble size, the most and least common surgeries performed for each type of cancer in Orange County. These findings could potentially lead to deeper study of the causes behind the varying levels of prevalence for each cancer type. 
+The first data visualization features a bubble chart to demonstrate the frequency of each surgery based on cancer type. This chart allows users to easily identify, based on bubble size, the most and least common surgeries performed for each type of cancer in Orange County. These findings could potentially lead to deeper study of the causes behind the varying levels of prevalence for each cancer type and promote additional research for the most common cancers. 
 
 ![Orange_Subset Visualization 2](https://user-images.githubusercontent.com/118300502/202928202-07ea499a-5b21-4ff0-a7f2-e1f7c4cee05a.jpg)
 
