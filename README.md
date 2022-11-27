@@ -1,4 +1,4 @@
-# Engl105-Unit3
+# Analyzing Cancer Data by California Counties
 This is a repository containing instructional materials and sample datasets for Professor Gotzler's Fall 2022 sections of ENGL-105 at the University of North Carolina at Chapel Hill.
 
 The repository contains 3 python notebooks:
